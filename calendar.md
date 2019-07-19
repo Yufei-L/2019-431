@@ -1,4 +1,4 @@
-# Course Calendar for Fall 2019 - 431
+# Course Calendar for Fall 2019 - PQHS 431
 
 All classes take place in room E321-323 of the Wood Building at the School of Medicine, from 1:00 to 2:15 PM.
 
