@@ -7,7 +7,7 @@ All classes take place in room E321-323 of the Wood Building at the School of Me
 Links | Date | Description
 :------: | ----------- | ----------------------------------------
 README 01 | 2019-08-27 | Class begins. Introduction & Demonstrations.
-README 02 | 2019-08-29 | Part A: Data Visualization as the heart of data science begins.
+README 02 | 2019-08-29 | **Part A: Data Visualization** begins.
 README 03 | 2019-09-03 | 
 README 04 | 2019-09-05 | 
 README 05 | 2019-09-10 | 
@@ -15,7 +15,7 @@ README 06 | 2019-09-12 |
 README 07 | 2019-09-17 | 
 README 08 | 2019-09-19 | 
 README 09 | 2019-09-24 | 
-README 10 | 2019-09-26 | Part B: Making Comparisons begins about here.
+README 10 | 2019-09-26 | **Part B: Designing Comparisons** begins about here.
 README 11 | 2019-10-01 |
 README 12 | 2019-10-03 | 
 README 13 | 2019-10-08 | 
@@ -23,7 +23,7 @@ README 14 | 2019-10-10 |
 README 15 | 2019-10-15 | 
 -- | 2019-10-17 | *No class*. Dr. Love will be at Study Section.
 -- | 2019-10-22 | *No class*. University Fall Break.
-README 16 | 2019-10-24 | Part C: Modeling with Regression begins about here.
+README 16 | 2019-10-24 | **Part C: Models and Regression** begins about here.
 README 17 | 2019-10-29 | 
 README 18 | 2019-10-31 | 
 README 19 | 2019-11-05 |
