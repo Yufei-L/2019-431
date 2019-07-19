@@ -2,7 +2,7 @@
 
 All classes take place in room E321-323 of the Wood Building at the School of Medicine, from 1:00 to 2:15 PM.
 
-Session | Date | Description
+Links | Date | Description
 :------: | ----------- | ----------------------------------------
 1 README | 2019-08-27 | Class begins. Introduction & Demonstrations.
 2 README | 2019-08-29 | Part A: Data Visualization as the heart of data science begins.
