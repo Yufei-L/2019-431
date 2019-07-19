@@ -40,4 +40,4 @@ Links | Date | Description
 
 ## Final Projects - Your Presentation
 
-Everyone in the class will complete a final project, and present it to Dr. Love, either on 2019-12-09, 2019-12-10 or 2019-12-12. Scheduling of Presentations will occur in early October. You will not be attending any project presentations other than your own.
+Everyone in the class will complete a final project, and present it to Dr. Love, either on 2019-12-09, 2019-12-10 or 2019-12-12. Scheduling of Presentations will occur in early October. For planning purposes, you will not be attending any project presentations other than your own, and your presentation will take between 20 and 30 minutes.
