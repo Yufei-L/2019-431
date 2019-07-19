@@ -1,8 +1,8 @@
 # 2019-431
 
-PQHS 431 is the first part of a two-semester sequence (PQHS 431-432) taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. 
+Welcome! PQHS 431 is the first part of a two-semester sequence (PQHS 431-432) taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Everything that Professor Love will provide to help you with the course will appear on this website.
 
-Welcome! The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-323 of the Robbins Building at the CWRU School of Medicine, starting on 2019-08-27.
+The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-323 of the Robbins Building at the CWRU School of Medicine, starting on 2019-08-27.
 
 ## What Must I Do Before the First Class at 1 PM on August 27?
 
