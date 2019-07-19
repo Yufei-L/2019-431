@@ -7,7 +7,8 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 ## What Must I Do Before the First Class at 1 PM on August 27?
 
 1. Register for the course.
-2. Additional requirements to come, soon.
+2. Purchase two books, as described in the [Course Syllabus](https://thomaselove.github.io/2019-431-syllabus/). The combined price is about \$25.
+3. Take a look at the course materials posted and linked here, including the key links below (new materials will continue to appear here throughout the semester.)
 
 ## Contact Us
 
@@ -16,7 +17,7 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 
 ## Key Links 
 
-- The Course Syllabus
+- The [Course Syllabus](https://thomaselove.github.io/2019-431-syllabus/)
     - This includes details on Professor Love and the teaching assistants, software, the course texts, and more.
 - The [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md) is the final word for all deadlines, and provides links for all deliverables and class sessions.
 
