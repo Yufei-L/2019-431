@@ -11,6 +11,10 @@ Welcome! Everything you need to read about the course in advance will appear her
 - If you have questions about the course before our first class on **2019-08-27**, email Professor Love at `Thomas dot Love at case dot edu`.
 - Starting 2019-08-27, contact Professor Love (and the Teaching Assistants) by emailing **431-help at case dot edu**. 
 
+## What Must I Do Before the First Class at 1 PM on August 27?
+
+Right now, nothing. We'll have some suggestions posted soon.
+
 ## Key Links 
 
 - The Course Syllabus
