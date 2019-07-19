@@ -4,9 +4,9 @@ Welcome! PQHS 431 is the first part of a two-semester sequence (PQHS 431-432) ta
 
 The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-323 of the Robbins Building at the CWRU School of Medicine, starting on 2019-08-27.
 
-# EVERYTHING ON THIS SITE WILL CHANGE between now and the start of the course on AUGUST 27.
+# EVERYTHING ON THIS SITE IS SUBJECT TO MEANINGFUL CHANGE 
 
-That means everything from the assignments to the textbooks is a work in progress, and cannot be counted on yet. As things finalize, I'll make that clear. For now, everything is subject to change.
+between now and the start of the course at 1 PM on August 27. Don't count on anything you see here looking the same at that time.
 
 ## Contact Us
 
@@ -35,7 +35,8 @@ That means everything from the assignments to the textbooks is a work in progres
 ## What Must I Do Before the First Class at 1 PM on August 27?
 
 1. Register for the course.
-2. Take a look at the course materials posted on this site. Everything here is a work in progress, with new materials are arriving regularly from now until the end of the course in December.
+2. Around August 9, I should have a document here which gives you more detailed instructions. 
+3. In the meantime, take a look at the course materials posted on this site. Remember that everything here is a work in progress, with new materials are arriving regularly from now until the end of the course in December.
 
 ## Old Versions of the Course
 
