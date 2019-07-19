@@ -4,11 +4,6 @@ Welcome! PQHS 431 is the first part of a two-semester sequence (PQHS 431-432) ta
 
 The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-323 of the Robbins Building at the CWRU School of Medicine, starting on 2019-08-27.
 
-## What Must I Do Before the First Class at 1 PM on August 27?
-
-1. Register for the course.
-2. Take a look at the course materials posted on this site. Everything here is a work in progress, with new materials are arriving regularly from now until the end of the course in December.
-
 ## Contact Us
 
 - If you have questions about the course before our first class on **2019-08-27**, email Professor Love at `Thomas dot Love at case dot edu`.
@@ -19,9 +14,6 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 - The [Course Syllabus](https://thomaselove.github.io/2019-431-syllabus/)
     - This includes details on Professor Love and the teaching assistants, software, the course texts, and more.
 - The [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md) is the final word for all deadlines, and provides links for all deliverables and class sessions.
-
-### Educational Materials
-
 - Professor Love's [Course Notes](https://thomaselove.github.io/2019-431-book/)
     - This is the main textbook, and provides a series of examples of using R to work through issues that will likely come up in the course. Its current title is "[Data Science for Biological, Medical and Health Research](https://thomaselove.github.io/2019-431-book/)"
 - Slides and other materials for each class will also be provided, with links to presentation materials and READMEs for each class session to be found in the [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md).
@@ -35,6 +27,11 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 - The Course Project
 - The Homework Assignments
 - The Quizzes
+
+## What Must I Do Before the First Class at 1 PM on August 27?
+
+1. Register for the course.
+2. Take a look at the course materials posted on this site. Everything here is a work in progress, with new materials are arriving regularly from now until the end of the course in December.
 
 ## Old Versions of the Course
 
