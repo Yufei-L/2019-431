@@ -35,7 +35,7 @@ Don't count on anything you see here looking the same at that time.
 ## What Must I Do Before the First Class at 1 PM on August 27?
 
 1. Register for the course.
-2. On or about August 12, I should have a document here which gives you more detailed instructions. 
+2. By August 19, I should have a document here which gives you more detailed instructions. 
 3. In the meantime, take a look at the course materials posted on this site. Remember that everything here is a work in progress, with new materials are arriving regularly from now until the end of the course in December.
 
 ## Old Versions of the Course
