@@ -18,7 +18,7 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
     - Jeffrey Leek, *The Elements of Data Analytic Style*, available at https://leanpub.com/datastyle.
 4. In the meantime, take a look at the course materials posted on this site. Remember that everything here is a work in progress, with new materials are arriving regularly from now until the end of the course in December.
 
-## Everything here is work in progress. Things will change (including some important things) before the first class.
+## Everything here is work in progress. Things will change (including important things) before the first class.
 
 ## Key Links 
 
