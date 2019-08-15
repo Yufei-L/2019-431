@@ -4,14 +4,18 @@ Welcome! PQHS 431 is the first part of a two-semester sequence (PQHS 431-432) ta
 
 The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E321-323 of the Robbins Building at the CWRU School of Medicine, starting on 2019-08-27.
 
-## EVERYTHING HERE IS SUBJECT TO MEANINGFUL CHANGE between now and the start of the course at 1 PM on August 27. 
-
-Don't count on anything you see here looking the same at that time.
-
 ## Contact Us
 
 - If you have questions about the course before our first class on **2019-08-27**, email Professor Love at `Thomas dot Love at case dot edu`.
 - Starting 2019-08-27, contact Professor Love (and the Teaching Assistants) by emailing **431-help at case dot edu**. 
+
+## What Must I Do Before the First Class at 1 PM on August 27?
+
+1. Register for the course.
+2. By August 19, I should have a document here which gives you more detailed instructions. 
+3. In the meantime, take a look at the course materials posted on this site. Remember that everything here is a work in progress, with new materials are arriving regularly from now until the end of the course in December.
+
+## All of this is a work in progress. Things will change (including some important things) before the first class.
 
 ## Key Links 
 
@@ -32,12 +36,9 @@ Don't count on anything you see here looking the same at that time.
 - The Homework Assignments
 - The Quizzes
 
-## What Must I Do Before the First Class at 1 PM on August 27?
-
-1. Register for the course.
-2. By August 19, I should have a document here which gives you more detailed instructions. 
-3. In the meantime, take a look at the course materials posted on this site. Remember that everything here is a work in progress, with new materials are arriving regularly from now until the end of the course in December.
-
 ## Old Versions of the Course
 
 If you are a former student, or for some other reason need to see the 431 course in its previous iterations, contact Dr. Love via email.
+
+- Some people will want to see [the Fall 2018 version of the Course Notes](https://thomaselove.github.io/2018-431-book/), for instance.
+
