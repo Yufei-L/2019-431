@@ -28,8 +28,9 @@ Submit your paragraph (as either a Word or PDF file) to Canvas at
 ## Activity 2. Survey
 
 Please complete the survey form at
-<http://bit.ly/431-2019-deliverableA-survey>. You’ll need to log into
-Google using your CWRU ID in order to access the form. The survey asks
-about your attitudes toward statistics, as well as for your opinion
+<http://bit.ly/431-2019-deliverableA-survey>. 
+
+You’ll need to log into Google using your CWRU ID in order to access the form. 
+The survey asks about your attitudes toward statistics, as well as for your opinion
 about the most important things you learned in the first two sessions of
 431. It should take less than 10 minutes for you to complete it.
