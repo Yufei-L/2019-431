@@ -3,7 +3,7 @@
 
 **Deadline**: 2019-08-30 at 2 PM.
 
-Deliverable A requires you to complete two activities. Completion of each activity is worth 25 points, so the maximum score is 50.
+Deliverable A requires you to complete two activities. Completion of each activity is worth 15 points, so the maximum score is 30.
 
 ## Activity 1. Interpreting a Visualization Built in R
 
