@@ -8,16 +8,16 @@ Links | Date | Description
 :------: | ----------- | ----------------------------------------
 README 01 | 2019-08-27 | Class begins. Introduction & Demonstrations.
 README 02 | 2019-08-29 | **Part A: Data Visualization** begins.
-DELIVERABLE A | 2019-08-30 | due at 2 PM.
+Product A | 2019-08-30 | due at 2 PM.
 README 03 | 2019-09-03 | 
 README 04 | 2019-09-05 | 
-DELIVERABLE B | 2019-09-06 | due at 2 PM.
+PRODUCT B | 2019-09-06 | due at 2 PM.
 README 05 | 2019-09-10 | 
 README 06 | 2019-09-12 | 
-DELIVERABLE C | 2019-09-13 | due at 2 PM.
+PRODUCT C | 2019-09-13 | due at 2 PM.
 README 07 | 2019-09-17 | 
 README 08 | 2019-09-19 | 
-DELIVERABLE D | 2019-09-20 | due at 2 PM.
+PRODUCT D | 2019-09-20 | due at 2 PM.
 README 09 | 2019-09-24 | 
 README 10 | 2019-09-26 | **Part B: Designing Comparisons** begins about here.
 DELIVERABLE E | 2019-09-27 | due at 2 PM.
