@@ -1,9 +1,6 @@
 431 Deliverable B
 ================
-Thomas E. Love
-Due **2018-09-06** at 2 PM.
-
-This is Version: 2019-08-16 23:17:20
+Due **2018-09-06** at 2 PM. Last Edited 2019-08-16 23:22:49
 
 # General Instructions
 
@@ -18,9 +15,9 @@ the `tidyverse` package, we will have direct access to the `midwest`
 data by typing `midwest`. The `midwest` data describe demographic
 information for 437 counties in the midwestern United States. You might
 use `?midwest` to obtain a little bit of additional information about
-these data, and/or use `View(midwest)` to get a look at a “spreadsheet”
-view of the data. We will focus on just four variables in Homework 1
-from this data set:
+these data, and/or use `View(midwest)` to get a look at a
+spreadsheet-style view of the data. We will focus on just four variables
+in Deliverable B taken from this data set:
 
   - `county` = the name of the county
   - `state` = the name of the state (each county is contained in a
@@ -45,17 +42,17 @@ the state of Ohio.
 
 # Question 3
 
-Use the tools we’ve been learning in the `ggplot2` package to build a
+Use the tools we have been learning in the `ggplot2` package to build a
 histogram of the `percollege` results across all 437 counties
 represented in the data. Create appropriate (that is to say, meaningful)
-titles for each axis and for the graph as a whole (don’t simply use the
+titles for each axis and for the graph as a whole (do not simply use the
 default choices.) We encourage you to use something you find more
 attractive than the default gray fill in the histogram.
 
 # Question 4
 
 Based on your results in Questions 2 and 3, write a short description
-(2-3 sentences) of Cuyahoga County’s position relative to the full
+(2-3 sentences) of the position of Cuyahoga County relative to the full
 distribution of counties in terms of `percollege`.
 
 # Question 5
@@ -77,12 +74,12 @@ category.
 
 # Question 7
 
-Ask one question of Dr. Love about this course (ideally one that you
-haven’t asked us already) that interests you.
+Ask one question of Professor Love about this course (ideally one that
+you have not asked us already) that interests you.
 
 It can be a question about the syllabus, the readings, the project, the
 homework assignments, the course notes, anything big or small, but it
-shouldn’t be a fact that you can find already in the [Course
+should not be a fact that you can find already in the [Course
 Syllabus](https://thomaselove.github.io/2019-431-syllabus/).
 
 # Submitting your Response
@@ -94,11 +91,11 @@ deadline is 2019-09-06 at 2 PM.
 
 # A Few Tips
 
-You are welcome to discuss Deliverable B with Dr. Love, the teaching
-assistants or your colleagues, but your answer must be prepared by you
-alone. Don’t be afraid to ask questions, either of Professor Love, or of
-the teaching assistants, either in person at office hours or
-before/after class, or email **431-help at case dot edu**.
+You are welcome to discuss Deliverable B with Professor Love, the
+teaching assistants or your colleagues, but your answer must be prepared
+by you alone. Don’t be afraid to ask questions, either in person at
+office hours or before/after class, or email **431-help at case dot
+edu**.
 
 ## Grading Rubric
 
