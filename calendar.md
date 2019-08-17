@@ -8,7 +8,7 @@ Links | Date | Description
 :------: | ----------- | ----------------------------------------
 README 01 | 2019-08-27 | Class begins. Introduction & Demonstrations.
 README 02 | 2019-08-29 | **Part A: Data Visualization** begins.
--- | 2019-08-30 | Deliverable A due at 2 PM.
+Deliverable A | 2019-08-30 | due at 2 PM.
 README 03 | 2019-09-03 | 
 README 04 | 2019-09-05 | 
 Deliverable B | 2019-09-06 | due at 2 PM.
