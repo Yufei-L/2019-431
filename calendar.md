@@ -11,48 +11,48 @@ README 02 | 2019-08-29 | **Part A: Data Visualization** begins.
 Product A | 2019-08-30 | due at 2 PM.
 README 03 | 2019-09-03 | 
 README 04 | 2019-09-05 | 
-PRODUCT B | 2019-09-06 | due at 2 PM.
+Product B | 2019-09-06 | due at 2 PM.
 README 05 | 2019-09-10 | 
 README 06 | 2019-09-12 | 
-PRODUCT C | 2019-09-13 | due at 2 PM.
+Product C | 2019-09-13 | due at 2 PM.
 README 07 | 2019-09-17 | 
 README 08 | 2019-09-19 | 
-PRODUCT D | 2019-09-20 | due at 2 PM.
+Product D | 2019-09-20 | due at 2 PM.
 README 09 | 2019-09-24 | 
 README 10 | 2019-09-26 | **Part B: Designing Comparisons** begins about here.
-DELIVERABLE E | 2019-09-27 | due at 2 PM.
+Product E | 2019-09-27 | due at 2 PM.
 README 11 | 2019-10-01 |
 README 12 | 2019-10-03 | 
-DELIVERABLE F | 2019-10-04 | due at 2 PM.
+Product F | 2019-10-04 | due at 2 PM.
 README 13 | 2019-10-08 | 
 README 14 | 2019-10-10 | 
-DELIVERABLE G | 2019-10-11 | due at 2 PM.
+Product G | 2019-10-11 | due at 2 PM.
 README 15 | 2019-10-15 | 
 -- | 2019-10-17 | *No class*. Dr. Love will be at Study Section.
 -- | 2019-10-22 | *No class*. University Fall Break.
-DELIVERABLE H | 2019-10-23 | due at 2 PM.
+Product H | 2019-10-23 | due at 2 PM.
 README 16 | 2019-10-24 | **Part C: Models and Regression** begins about here.
 README 17 | 2019-10-29 | 
 README 18 | 2019-10-31 | 
-DELIVERABLE I | 2019-11-01 | due at 2 PM.
+Product I | 2019-11-01 | due at 2 PM.
 README 19 | 2019-11-05 |
 README 20 | 2019-11-07 |
-DELIVERABLE J | 2019-11-08 | due at 2 PM.
+Product J | 2019-11-08 | due at 2 PM.
 README 21 | 2019-11-12 |
 README 22 | 2019-11-14 |
-DELIVERABLE K | 2019-11-15 | due at 2 PM.
+Product K | 2019-11-15 | due at 2 PM.
 README 23 | 2019-11-19 |
 README 24 | 2019-11-21 |
-DELIVERABLE L | 2019-11-22 | due at 2 PM.
+Product L | 2019-11-22 | due at 2 PM.
 -- | 2019-11-26 | *No class*. Dr. Love will be out of town.
 -- | 2019-11-28 | *No class*. University Thanksgiving Break.
 README 25 | 2019-12-03 | 
 README 26 | 2019-12-05 |
-DELIVERABLE M | 2019-12-06 | due at 2 PM.
+Product M | 2019-12-09 | due at 2 PM.
 *Projects 1* | 2019-12-09 | First Day of Project Presentations
 *Projects 2* | 2019-12-10 | Second Day of Project Presentations
 *Projects 3* | 2019-12-12 | Final Day of Project Presentations
-DELIVERABLE N | 2019-12-13 | due at 2 PM.
+Product N | 2019-12-13 | due at 2 PM.
 
 ## Final Projects - Your Presentation
 
