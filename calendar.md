@@ -11,7 +11,7 @@ README 02 | 2019-08-29 | **Part A: Data Visualization** begins.
 [Deliverable A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) | 2019-08-30 | [Two activities need to be completed](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A), each due at 2 PM.
 README 03 | 2019-09-03 | 
 README 04 | 2019-09-05 | 
-Deliverable B | 2019-09-06 | due at 2 PM.
+[Deliverable B](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/B) | 2019-09-06 | [Seven questions, mostly about the `midwest` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/B), due at 2 PM.
 README 05 | 2019-09-10 | 
 README 06 | 2019-09-12 | 
 Deliverable C | 2019-09-13 | due at 2 PM.
