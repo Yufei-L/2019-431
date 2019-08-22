@@ -13,6 +13,10 @@
     - [The Assignment](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/D)
     - [Post-Assignment Materials] 
 - Deliverable E, due 2019-09-27 at 2 PM
-    - [The Assignment](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/D)
+    - [The Assignment](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/E)
+    - [Post-Assignment Materials] 
+- Deliverable F, including the Project Proposal, due 2019-10-04 at 2 PM
+    - [The Assignment](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/F)
+    - [Instructions for the Project Proposal](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/PROPOSAL)
     - [Post-Assignment Materials] 
 
