@@ -1,12 +1,10 @@
 # Scheduling Final Project Presentations in 431
 
-By 9 AM on 2019-09-30, you will need to complete a Google Form to indicate your preferences regarding the scheduling of your presentation. This form will also allow you to communicate with Dr. Love directly about any special needs you have regarding that presentation.
+By 9 AM on 2019-09-30, you will need to complete a Google Form to indicate your preferences regarding the scheduling of your presentation. This form will also allow you to communicate with Dr. Love directly about any special needs you have regarding that presentation. Please be sure to complete the form in a timely manner.
 
 The form will be found at **LINK COMING SOON**.
 
-Almost all of the presentations will occur on 2019-12-09, 2019-12-10 or 2019-12-12.
 
-Please be sure to complete the form in a timely manner.
 
 ## The Time Slots listed on the Form are as follows:
 
@@ -17,14 +15,12 @@ Slot # | Monday 2019-12-09 | | Slot # | Tuesday 2019-12-10 | | Slot # | Thursday
 09-01 | 8:00 AM to 8:20 AM | | 10-01 | 8:00 AM to 8:20 AM | | 12-01 | 8:00 AM to 8:20 AM
 09-02 | 8:25 AM to 8:45 AM | | 10-02 | 8:25 AM to 8:45 AM | | 12-02 | 8:25 AM to 8:45 AM
 09-03 | 8:50 AM to 9:10 AM | | 10-03 | 8:50 AM to 9:10 AM | | 12-03 | 8:50 AM to 9:10 AM
+09-04 | 9:15 AM to 9:35 AM | | 10-04 | 9:15 AM to 9:35 AM | | 12-04 | 9:15 AM to 9:35 AM
+09-05 | 9:40 AM to 10:00 AM | | 10-05 | 9:40 AM to 10:00 AM | | 12-05 | 9:40 AM to 10:00 AM
+09-06 | 10:15 AM to 10:35 AM | | 10-06 | 10:15 AM to 10:35 AM | | 12-06 | 10:15 AM to 10:35 AM
+09-07 | 10:40 AM to 11:00 AM | | 10-07 | 10:40 AM to 11:00 AM | | 12-07 | 10:40 AM to 11:00 AM
 
 
-- Slot 09-01: Monday 8:00 AM to 8:20 AM
-- Slot 09-02: Monday 8:25 AM to 8:45 AM
-- Slot 09-03: Monday 8:50 AM to 9:10 AM
-- Slot 09-04: Monday 9:15 AM to 9:35 AM
-- Slot 09-05: Monday 9:40 AM to 10:00 AM
-- Slot 09-06: Monday 10:15 AM to 10:35 AM
 - Slot 09-07: Monday 10:40 AM to 11:00 AM
 - Slot 09-08: Monday 11:05 AM to 11:25 AM
 - Slot 09-09: Monday 11:30 AM to 11:50 AM
