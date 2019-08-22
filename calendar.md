@@ -20,10 +20,10 @@ README 08 | 2019-09-19 |
 [Deliverable D](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/D) | 2019-09-20 | [Seven questions, mostly about the `LBWunicef` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/D) due at 2 PM.
 README 09 | 2019-09-24 | 
 README 10 | 2019-09-26 | **Part B: Designing Comparisons** begins about here.
-[Deliverable E](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/E) | 2019-09-27 | [Seven questions, mostly about Fisher's `iris` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/E)due at 2 PM.
+[Deliverable E](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/E) | 2019-09-27 | [Seven questions, mostly about Fisher's `iris` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/E) due at 2 PM.
 README 11 | 2019-10-01 |
 README 12 | 2019-10-03 | 
-Deliverable F | 2019-10-04 | due at 2 PM.
+[Deliverable F](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/F) | 2019-10-04 | [Project Proposal](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/PROPOSAL) and [Working with Leek's formula for decoding health news](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/F) both due at 2 PM.
 README 13 | 2019-10-08 | 
 README 14 | 2019-10-10 | 
 Deliverable G | 2019-10-11 | due at 2 PM.
