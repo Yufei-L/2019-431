@@ -17,7 +17,7 @@ README 06 | 2019-09-12 |
 [Deliverable C](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/C) | 2019-09-13 | [Eleven questions, mostly about the `faithful` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/C) due at 2 PM.
 README 07 | 2019-09-17 | 
 README 08 | 2019-09-19 | 
-Deliverable D | 2019-09-20 | due at 2 PM.
+[Deliverable D](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/D) | 2019-09-20 | [Seven questions, mostly about the `LBWunicef` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/D) due at 2 PM.
 README 09 | 2019-09-24 | 
 README 10 | 2019-09-26 | **Part B: Designing Comparisons** begins about here.
 Deliverable E | 2019-09-27 | due at 2 PM.
