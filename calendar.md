@@ -21,7 +21,7 @@ README 08 | 2019-09-19 |
 README 09 | 2019-09-24 | 
 README 10 | 2019-09-26 | **Part B: Designing Comparisons** begins about here.
 [Deliverable E](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/E) | 2019-09-27 | [Seven questions, mostly about Fisher's `iris` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/E) due at 2 PM.
-FORM | 2019-09-30 | Complete the [Scheduling Form for Final Project Presentations](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/SCHEDULE) by 9 AM.
+[Scheduling](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/SCHEDULE) | 2019-09-30 | Complete the [Scheduling Form for Final Project Presentations](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/SCHEDULE) by 9 AM.
 README 11 | 2019-10-01 |
 README 12 | 2019-10-03 | 
 [Deliverable F](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/F) | 2019-10-04 | [Project Proposal](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/PROPOSAL) **and** [Decoding health news questions](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/F) due at 2 PM.
