@@ -1,6 +1,6 @@
 # Scheduling Final Project Presentations in 431
 
-By 9 AM on 2019-09-30, you will need to complete a Google Form to indicate your preferences regarding the scheduling of your project presentation. Your presentation will be given in Dr. Love's office - room WG82-J on the ground floor of the Wood building at the School of Medicine. You should be planning to arrive 10 minutes early for your presentation, so do not select a time where that is impossible.
+By 9 AM on 2019-09-30, you will need to [complete this Google Form](http://bit.ly/431-2019-project-scheduling) to indicate your preferences regarding the scheduling of your project presentation. Your presentation will be given in Dr. Love's office - room WG82-J on the ground floor of the Wood building at the School of Medicine. You should be planning to arrive 10 minutes early for your presentation, so do not select a time where that is impossible.
 
 The form will require you to specify a minimum of 9 time slots, on at least two different days, when you are available to give your presentation. You will also be able to specify your two favorite time slots among those you have chosen. 
 
@@ -11,7 +11,7 @@ The presentation dates are Monday 2019-12-09, Tuesday 2019-12-10 and Thursday 20
 
 If you have some special problem or concern or need to give your presentation before 2018-12-09, there is a space to tell Dr. Love about that at the end of the form. All presentations must be completed on or before 2019-12-12.
 
-The form will be found at **LINK COMING SOON**.
+The form will be found at http://bit.ly/431-2019-project-scheduling.
 
 ## The Time Slots listed on the Form are as follows:
 
