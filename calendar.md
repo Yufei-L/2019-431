@@ -26,8 +26,8 @@ README 11 | 2019-10-01 |
 README 12 | 2019-10-03 | 
 [Deliverable F](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/F) | 2019-10-04 | [Project Proposal](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/PROPOSAL) **and** [Decoding health news questions](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/F) due at 2 PM.
 README 13 | 2019-10-08 | 
-README 14 | 2019-10-10 | Quiz 1 available at 5 PM.
-QUIZ 1 | 2019-10-14 | Quiz 1 is due at noon.
+README 14 | 2019-10-10 | [Quiz 1](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) available at 5 PM.
+QUIZ 1 | 2019-10-14 | [Quiz 1](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) is due at noon.
 README 15 | 2019-10-15 | 
 -- | 2019-10-17 | *No class*. Dr. Love will be at Study Section.
 -- | 2019-10-22 | *No class*. University Fall Break.
@@ -40,8 +40,8 @@ README 19 | 2019-11-05 |
 README 20 | 2019-11-07 |
 Deliverable I | 2019-11-08 | due at 2 PM.
 README 21 | 2019-11-12 |
-README 22 | 2019-11-14 | Quiz 2 available at 5 PM.
-QUIZ 2 | 2019-11-18 | Quiz 2 is due at noon.
+README 22 | 2019-11-14 | [Quiz 2](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) available at 5 PM.
+QUIZ 2 | 2019-11-18 | [Quiz 2](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) is due at noon.
 README 23 | 2019-11-19 |
 README 24 | 2019-11-21 |
 Deliverable J | 2019-11-22 | due at 2 PM.
