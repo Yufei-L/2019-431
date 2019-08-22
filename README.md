@@ -35,9 +35,12 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 
 ### Deliverables
 
-- The Course Project
-- The Homework Assignments
-- The Quizzes
+There are a series of deliverables for this course, including regular "minute paper" surveys, more traditional "homework" assignments, a course project, and some quizzes.
+
+- [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md) (final word for all deadlines)
+- Main [Deliverables page](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES) with Links for the Homework Assignments
+- The [Course Project](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT) page
+- The [Quizzes](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) page
 
 ## Old Versions of the Course
 
