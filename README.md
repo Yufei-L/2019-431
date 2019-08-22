@@ -6,7 +6,7 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 
 ## Contact Us
 
-- If you have questions about the course before our first class on **2019-08-27**, email Professor Love at `Thomas dot Love at case dot edu`.
+- If you have questions before our first class on **2019-08-27**, email Professor Love at `Thomas dot Love at case dot edu`.
 - Starting 2019-08-27, contact Professor Love (and the Teaching Assistants) by emailing **431-help at case dot edu**. 
 
 ## What Must I Do Before the First Class at 1 PM on August 27?
