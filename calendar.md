@@ -20,7 +20,7 @@ README 08 | 2019-09-19 |
 [Deliverable D](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/D) | 2019-09-20 | [Seven questions, mostly about the `LBWunicef` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/D) due at 2 PM.
 README 09 | 2019-09-24 | 
 README 10 | 2019-09-26 | **Part B: Designing Comparisons** begins about here.
-Deliverable E | 2019-09-27 | due at 2 PM.
+[Deliverable E](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/E) | 2019-09-27 | [Seven questions, mostly about Fisher's `iris` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/E)due at 2 PM.
 README 11 | 2019-10-01 |
 README 12 | 2019-10-03 | 
 Deliverable F | 2019-10-04 | due at 2 PM.
