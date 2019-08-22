@@ -14,7 +14,7 @@ README 04 | 2019-09-05 |
 [Deliverable B](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/B) | 2019-09-06 | [Seven questions, mostly about the `midwest` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/B), due at 2 PM.
 README 05 | 2019-09-10 | 
 README 06 | 2019-09-12 | 
-Deliverable C | 2019-09-13 | due at 2 PM.
+[Deliverable C](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/C) | 2019-09-13 | [Eleven questions, mostly about the `faithful` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/C) due at 2 PM.
 README 07 | 2019-09-17 | 
 README 08 | 2019-09-19 | 
 Deliverable D | 2019-09-20 | due at 2 PM.
