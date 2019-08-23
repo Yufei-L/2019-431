@@ -2,7 +2,7 @@
 
 By 9 AM on 2019-09-30, you will need to [complete this Google Form](http://bit.ly/431-2019-project-scheduling) to indicate your preferences regarding the scheduling of your project presentation. Your presentation will be given in Dr. Love's office - room WG82-J on the ground floor of the Wood building at the School of Medicine. You should be planning to arrive 10 minutes early for your presentation, so do not select a time where that is impossible.
 
-The form will require you to specify a minimum of 9 time slots, on at least two different days, when you are available to give your presentation. You will also be able to specify your two favorite time slots among those you have chosen. 
+The form will require you to specify a minimum of 9 time slots, on at least two different days, when you are available to give your presentation. You will also be able to specify your two favorite time slots among those you have chosen. You’ll need to log into Google using your CWRU ID in order to access the form. 
 
 The presentation dates are Monday 2019-12-09, Tuesday 2019-12-10 and Thursday 2019-12-12. 
 
