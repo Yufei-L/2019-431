@@ -50,15 +50,15 @@ Deliverable J | 2019-11-22 | due at 2 PM.
 README 25 | 2019-12-03 | 
 README 26 | 2019-12-05 |
 Deliverable K | 2019-12-09 | due at 2 PM.
-*Projects 1* | 2019-12-09 | First Day of Project Presentations
-*Projects 2* | 2019-12-10 | Second Day of Project Presentations
-*Projects 3* | 2019-12-12 | Final Day of Project Presentations
+*Projects 1* | 2019-12-09 | First Day of [Project Presentations](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT)
+*Projects 2* | 2019-12-10 | Second Day of [Project Presentations](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT)
+*Projects 3* | 2019-12-12 | Final Day of [Project Presentations](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT)
 Deliverable L | 2019-12-13 | due at 2 PM.
 
 ## Final Projects - Your Presentation
 
-Everyone in the class will complete a final project, and present it to Dr. Love, either on 2019-12-09, 2019-12-10 or 2019-12-12. [There is a form to describe your preferences for scheduling](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/SCHEDULE), which is due at 9 AM on 2019-09-30. Dr. Love will finalize the schedule in early October. For planning purposes, you will not be attending any project presentations other than your own, and your presentation will take between 20 and 30 minutes.
+Everyone in the class will complete a [final project](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT), and present it to Dr. Love, either on 2019-12-09, 2019-12-10 or 2019-12-12. [There is a form to describe your preferences for scheduling](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/SCHEDULE), which is due at 9 AM on 2019-09-30. Dr. Love will finalize the schedule in early October. For planning purposes, you will not be attending any project presentations other than your own, and your presentation will take between 20 and 30 minutes.
 
 ## TA Office Hours
 
-The schedule for TA office hours will be posted here by September 1. TA office hours begin on 2019-09-03. To get help in the course, please visit TA office hours, or send a note to `431-help at case dot edu`.
+The schedule for TA office hours will be posted here by 2019-09-01. In-person TA office hours will begin on 2019-09-03. To get help in the course, please visit TA office hours, or send a note to `431-help at case dot edu` (which opens on 2019-08-27).
