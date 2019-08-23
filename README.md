@@ -36,9 +36,9 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 - [Readings and Supplemental Materials](https://github.com/THOMASELOVE/2019-431/blob/master/READINGS.md) I'll refer to during the course.
 - [Software Installation and Tips](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE.md) to help you get rolling with R.
 
-### Deliverables
+## Deliverables
 
-There are a series of deliverables for this course, including regular "minute paper" surveys, more traditional "homework" assignments, a course project, and some quizzes.
+There are several types of deliverables for this course, including regular "minute paper" surveys, more traditional "homework" assignments, a course project, and some quizzes.
 
 - [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md) (final word for all deadlines)
 - Main [Deliverables page](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES) with Links for the Homework Assignments
