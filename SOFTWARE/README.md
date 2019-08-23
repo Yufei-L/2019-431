@@ -12,9 +12,9 @@ If you need more help, you might look at [this terrific resource for Installing 
 
 1. Professor Love will demonstrate the use of R, RStudio and R Markdown in class, beginning with Class 2.
 2. Professor Love's document entitled **Getting Started with R** is a good first step. It demonstrates some of the details on how to use these tools to actually analyze data. 
-    - Here is a [raw R Markdown version](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.Rmd).
-    - Here is the [downloadable PDF](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.pdf).
-    - Here is the [HTML file](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.html) that the R Markdown code produces.
+    - [Here is the R Markdown code](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.Rmd).
+    - [Here is the downloadable PDF](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.pdf).
+    - [Here is an HTML file](http://rpubs.com/TELOVE/getting-started-2019) that the R Markdown code produces, if you'd like to see it.
     - Here is the [431-r-template.Rmd] file that Dr. Love refers to in the Getting Started with R document. It's also (like the Getting Started with R material available on our [Data (and code) page](https://github.com/THOMASELOVE/2019-431-data).
 3. We can also recommend Chester Ismay and Patrick Kennedy's [Getting Used to R, RStudio and R Markdown](https://rbasics.netlify.com/) as an introduction to the basics.
 4. The [Course Notes](https://thomaselove.github.io/2019-431-book/), of course, are a source of many useful examples in how to use R.
