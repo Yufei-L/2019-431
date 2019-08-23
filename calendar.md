@@ -32,8 +32,8 @@ README 15 | 2019-10-15 |
 -- | 2019-10-17 | *No class*. Dr. Love will be at Study Section.
 -- | 2019-10-22 | *No class*. University Fall Break.
 Deliverable G | 2019-10-23 | due at 2 PM.
-README 16 | 2019-10-24 | **Part C: Models and Regression** begins about here.
-README 17 | 2019-10-29 | 
+README 16 | 2019-10-24 | 
+README 17 | 2019-10-29 | **Part C: Models and Regression** begins about here.
 README 18 | 2019-10-31 | 
 Deliverable H | 2019-11-01 | due at 2 PM.
 README 19 | 2019-11-05 |
