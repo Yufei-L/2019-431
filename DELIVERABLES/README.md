@@ -20,3 +20,4 @@
     - [Instructions for the Project Proposal](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/PROPOSAL)
     - [Post-Assignment Materials] 
 
+More to come.
