@@ -29,9 +29,12 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
     - This is the main textbook, and provides a series of examples of using R to work through issues that will likely come up in the course. Its current title is "[Data Science for Biological, Medical and Health Research](https://thomaselove.github.io/2019-431-book/)"
 - Slides and other materials for each class will also be provided, with links to presentation materials and READMEs for each class session to be found in the [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md).
     - Each class session begins with a review of that day's README, which contains links to slides and other materials. 
-- Additional pages include:
-    - [Data (and Code)](https://github.com/THOMASELOVE/2019-431/blob/master/DATA.md) for the course
-    - [Readings and Supplemental Materials]((https://github.com/THOMASELOVE/2019-431/blob/master/READINGS.md) for the course
+
+## Other Important Pages
+
+- [Data (and Code)](https://github.com/THOMASELOVE/2019-431/blob/master/DATA.md) for the course's deliverables, presentations, and notes.
+- [Readings and Supplemental Materials](https://github.com/THOMASELOVE/2019-431/blob/master/READINGS.md) I'll refer to during the course.
+- [Software Installation and Tips](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE.md) to help you get rolling with R.
 
 ### Deliverables
 
