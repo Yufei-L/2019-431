@@ -1,3 +1,3 @@
-# Software Page for 431 in Fall 2019
+# Installing Software for 431 in Fall 2019
 
-Coming Soon.
+Coming soon.
