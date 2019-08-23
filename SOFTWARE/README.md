@@ -2,11 +2,11 @@
 
 ## Installation
 
-- Visit [the Install R page](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/installR.md) for complete information on installing R and R Studio as well as obtaining the data and code you'll need in 431, on either a PC or a Macintosh computer.
+- Visit [the Install R page](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/installR.md) for complete information on installing R and RStudio as well as obtaining the data and code you'll need in 431, on either a PC or a Macintosh computer.
 - Visit [the R Packages page](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/PACKAGES.md) for details on the R packages we're using in 431.
 - Download the data and code (functions) we've developed for the course from our [Data page](https://github.com/THOMASELOVE/2019-431-data).
 
-If you need more help, you might look at [this terrific resource for Installing R and R Studio](http://stat545.com/block000_r-rstudio-install.html) from Jenny Bryan and the STAT 545 project. These are the people responsible for the great [Happy Git with R](http://happygitwithr.com/) project, which is worth your time, too, if you intend to use Git and GitHub.
+If you need more help, you might look at [this terrific resource for Installing R and RStudio](http://stat545.com/block000_r-rstudio-install.html) from Jenny Bryan and the STAT 545 project. These are the people responsible for the great [Happy Git with R](http://happygitwithr.com/) project, which is worth your time, too, if you intend to use Git and GitHub.
 
 ## Getting Started with R, RStudio and R Markdown
 
@@ -29,5 +29,5 @@ You will need a laptop computer in this class, not just an iPad or other tablet,
     - In this class, you'll be using RStudio and R, which look and work the same on either a PC or a Mac. 
     - Any reasonably recent PC or Macintosh machine will work well. 
     - I **do not** recommend the use of a Chrome device for this class.
-    - If you have a Linux system, you can certainly run R and R Studio well, and you definitely know better than I do how to accomplish that.
+    - If you have a Linux system, you can certainly run R and RStudio well, and you definitely know better than I do how to accomplish that.
 
