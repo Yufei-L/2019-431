@@ -1,6 +1,6 @@
 431 Deliverable D
 ================
-Due **2018-09-20** at 2 PM. Last Edited 2019-08-22 14:29:18
+Due **2018-09-20** at 2 PM. Last Edited 2019-08-23 08:37:25
 
 # General Instructions
 
@@ -12,23 +12,53 @@ As always, you are encouraged to discuss this Deliverable with Dr. Love,
 the teaching assistants or your colleagues, but your answer must be
 prepared by you alone.
 
-# The `LBWunicef` Data, for Questions 1-5
+# The `unicef_lbw` Data, for Questions 1-5
 
-I found data (last updated Nov 2014) at [a UNICEF data
-site](http://data.unicef.org/nutrition/low-birthweight.html), that
-described the percentage of low birth weight (less than 2,500 grams)
-infants for a number of nations (actually, counties and territories, but
-I’ll refer to them as nations here) around the world. I then built the
-`LBWunicef.csv` data set which includes the following elements.
+These data come from
+<https://data.unicef.org/topic/nutrition/low-birthweight/> and
+<https://data.unicef.org/regionalclassifications/>.
 
+> In 2015, 20.5 million newborns, an estimated 14.6 per cent of all
+> babies born globally that year, suffered from low birthweight. These
+> babies were more likely to die during their first month of life and
+> those who survived face lifelong consequences including a higher risk
+> of stunted growth lower IQ and adult-onset chronic conditions such as
+> obesity and diabetes. To grow a healthy baby, mothers need good
+> nutrition and rest, adequate antenatal care, and a clean environment.
+> Together, these ingredients for a healthy pregnancy can help to
+> prevent, identify and treat the conditions that cause low birthweight
+> and thus foster achievement of the World Health Assembly (WHA)
+> nutrition target to reduce low birthweight by 30 per cent between 2012
+> and 2025.
+
+The data describe, among other things, the percentage of low birth
+weight (less than 2,500 grams) infants for a number of nations
+(actually, counties and territories, but I’ll refer to them as nations
+here) around the world. I built up the `unicef_lbw.csv` data set which
+includes the following elements.
+
+  - `iso3_code` = three-letter code for each nation
   - `nation` = the nation’s name
-  - `lbw.pct` = the nation’s low birth weight percentage
+  - `pct_low_birthweight` = the nation’s low birth weight percentage
+    estimate from 2015 (updated June 2019) from
+    <https://data.unicef.org/wp-content/uploads/2014/10/Low-birthweight-data-2000-2015.xlsx>
+  - `unicef_subregion` = March 2017 regional classifications from
+    UNICEF, found at <https://data.unicef.org/regionalclassifications/>
   - `least.dev` = whether or not the nation is regarded by the United
-    Nations Population Division as one of the “least developed”
-    countries on Earth (note that `least.dev` = 1 if the nation is in
-    the “least developed countries” group and `least.dev` = 0 otherwise.
+    Nations High Representative for the Least Developed Countries,
+    Landlocked Developing Countries and Small Island Developing States
+    as one of the “least developed” countries on Earth (note that
+    `least.dev` = 1 if the nation is in the “least developed countries”
+    group and `least.dev` = 0 otherwise.)
+  - `pct_no_birthweight` = the nation’s percentage of births without a
+    birthweight (updated May 2019, but the data come from surveys
+    usually between 2010 and 2016) from
+    <https://data.unicef.org/wp-content/uploads/2014/10/birthweight-data-coverage-web-May-2019.xlsx>
 
-Import the `LBWunicef.csv` file into R Studio, turn it into a tibble,
+You’ll probably want to review [these Notes on the Data provided by
+UNICEF](https://data.unicef.org/topic/nutrition/low-birthweight/).
+
+Import the `unicef_lbw.csv` file into R Studio, turn it into a tibble,
 then use that result to answer questions 1-5.
 
 # Question 1
