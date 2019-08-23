@@ -15,7 +15,8 @@ If you need more help, you might look at [this terrific resource for Installing 
     - [Here is the R Markdown code](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.Rmd).
     - [Here is the downloadable PDF](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.pdf).
     - [Here is an HTML file](http://rpubs.com/TELOVE/getting-started-2019) that the R Markdown code produces, if you'd like to see it.
-    - Here is the [431-r-template.Rmd] file that Dr. Love refers to in the Getting Started with R document. It's also (like the Getting Started with R material available on our [Data (and code) page](https://github.com/THOMASELOVE/2019-431-data).
+    - Here is the [431-r-template.Rmd] file that Dr. Love refers to in the Getting Started with R document. 
+        - This is also available on our [Data (and code) page](https://github.com/THOMASELOVE/2019-431-data).
 3. We can also recommend Chester Ismay and Patrick Kennedy's [Getting Used to R, RStudio and R Markdown](https://rbasics.netlify.com/) as an introduction to the basics.
 4. The [Course Notes](https://thomaselove.github.io/2019-431-book/), of course, are a source of many useful examples in how to use R.
 
