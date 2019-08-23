@@ -18,7 +18,7 @@ Quiz 2 will be made available to you on 2019-11-14 at 5 PM. It will be due at no
 
 ## Quiz 3
 
-If there is a third Quiz, it would be in December. You will know whether there will be a third Quiz before Thanksgiving.
+If there is a third Quiz, it would be in December. We will announce whether (or not) there will be a third Quiz before Thanksgiving.
 
 ### About the Quizzes
 
