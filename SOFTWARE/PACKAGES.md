@@ -11,7 +11,7 @@ Note that these package instructions should be used after you've [followed these
     pkgs <- c("aplpack", "arm", "babynames", "boot", "broom", "car", "cowplot", 
               "devtools", "Epi", "faraway", "fivethirtyeight", "foreign", 
               "gapminder", "GGally", "ggridges", "gridExtra", "Hmisc", "janitor", 
-              "kableExtra", "knitr", "lme4", "markdown", "MASS", "mice", "mosaic", 
+              "kableExtra", "knitr", "lme4", "magrittr", "markdown", "MASS", "mice", "mosaic", 
               "multcomp", "NHANES", "pander", "psych", "pwr", "qcc", "rmarkdown", 
               "rmdformats", "rms", "sandwich", "simputation", "survival", "tableone", 
               "tidyverse", "vcd", "viridis")
