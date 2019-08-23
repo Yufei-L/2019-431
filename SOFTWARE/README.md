@@ -11,7 +11,7 @@ If you need more help, you might look at [this terrific resource for Installing 
 ## Getting Started with R, RStudio and R Markdown
 
 1. Professor Love will demonstrate the use of R, RStudio and R Markdown in class, beginning with Class 2.
-2. Professor Love's document entitled **Getting Started with R** (to be posted before class begins) is a good first step. It demonstrates some of the details on how to use these tools to actually analyze data. Of course, we'll also do this in class.
+2. Professor Love's document entitled **Getting Started with R** (to be posted before class begins) is a good first step. It demonstrates some of the details on how to use these tools to actually analyze data. 
 3. We can also recommend Chester Ismay and Patrick Kennedy's [Getting Used to R, RStudio and R Markdown](https://rbasics.netlify.com/) as an introduction to the basics.
 4. The [Course Notes](https://thomaselove.github.io/2019-431-book/), of course, are a source of many useful examples in how to use R.
 
