@@ -38,7 +38,7 @@ You are welcome to install the [preview version of RStudio](https://www.rstudio.
 ### Windows: Installing R
 
 1.  Close all other programs and point your Internet browser to https://cran.case.edu/.
-    -   Try https://cran.r-project.org/ if the Case site is busy or slow to respond.
+    -   Try https://cloud.r-project.org/ if the Case site is busy or slow to respond. That link automatically chooses a fast, nearby mirror for you.
     
 2.  In the **Download and Install R** box of precompiled binary distributions, click on **Download R for Windows**.
 
@@ -86,7 +86,7 @@ You are welcome to install the [preview version of RStudio](https://www.rstudio.
 ### Mac: Installing R
 
 1.  Close all other programs and point your Internet browser to https://cran.case.edu/.
-    -   Try https://cran.r-project.org/ if the Case site is busy or slow to respond.
+    -   Try https://cloud.r-project.org/ if the Case site is busy or slow to respond. That link automatically chooses a fast, nearby mirror for you.
 
 2.  In the **Download and Install R** box of precompiled binary distributions, click on **Download R for (Mac) OS X**.
 
@@ -98,7 +98,7 @@ You are welcome to install the [preview version of RStudio](https://www.rstudio.
 
 6.  You can check to see that the installation worked, if you like, by looking for the R (and, likely, R64) programs under the Launchpad. But you shouldn't have a problem. You should now be ready to install **R Studio**.
 
-### Mac: Installing R Studio
+### Mac: Installing RStudio
 
 1.  Close all other programs and point your browser to the download page for the desktop version of RStudio, at https://www.rstudio.com/products/rstudio/download/#download
     - If you prefer, you can instead [download the preview version](https://www.rstudio.com/products/rstudio/download/preview/) so as to be able to take advantage of the latest and greatest things available from RStudio. This isn't necessary for our course, though.
