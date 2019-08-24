@@ -1,11 +1,29 @@
 431 Deliverable B
 ================
-Due **2018-09-06** at 2 PM. Last Edited 2019-08-16 23:22:49
+Due **2018-09-06** at 2 PM. Last Edited 2019-08-23 23:31:35
 
 # General Instructions
 
 Deliverable B includes seven questions. Be sure to respond to each of
 them.
+
+## An R Markdown Template for Deliverable B
+
+You will analyze some data, and prepare a report in the form of an HTML
+file, using R Markdown. We have provided you with a very useful R
+Markdown document template for this assignment called
+`YOURNAME-deliverableB.Rmd` that you should use to complete your work.
+
+  - The `YOURNAME-deliverableB.Rmd` file is available in the [main
+    folder for Deliverable
+    B](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/B).
+  - The file is also found on the [Data (and code)
+    page](https://github.com/THOMASELOVE/2019-431-data) of our web site.
+    Just click on the green **Clone or download** button and select
+    Download ZIP to get the files you’ll need, including the
+    `YOURNAME-deliverableB.Rmd` template, as part of a ZIP file. Unzip
+    the file on your computer into a directory you can find again, and
+    you’ll be ready to go.
 
 ## The Data for Deliverable B
 
@@ -84,8 +102,10 @@ Syllabus](https://thomaselove.github.io/2019-431-syllabus/).
 
 # Submitting your Response
 
-Submit your response as an R Markdown file, and either an HTML, PDF or
-Word document that results from that R Markdown file, to
+Build your response as an R Markdown file, and either an HTML, PDF or
+Word document that results from the R Markdown file you built working
+from the `YOURNAME-deliverableB.Rmd` template that we have provided.
+Submit both your revised R Markdown file and the HTML output file to
 <https://canvas.case.edu/> in the Deliverable B section. Again, the
 deadline is 2019-09-06 at 2 PM.
 
