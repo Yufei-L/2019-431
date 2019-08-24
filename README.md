@@ -18,7 +18,7 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
     - Jeffrey Leek, *The Elements of Data Analytic Style*, available at https://leanpub.com/datastyle.
 4. In the meantime, take a look at the course materials posted on this site. Remember that everything here is a work in progress, with new materials are arriving regularly from now until the end of the course in December.
 
-## Everything here is work in progress. Things will change (including important things) before the first class.
+## Work is in progress here, *especially* including the Project page, the Data page, and Chapters 5-14 from the Course Notes. Lots of little things in other places will also change between now and the start of class on 2019-08-27.
 
 ## Key Links 
 
@@ -28,17 +28,17 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 - Professor Love's [Course Notes](https://thomaselove.github.io/2019-431-book/)
     - This is the main textbook, and provides a series of examples of using R to work through issues that will likely come up in the course. Its current title is "[Data Science for Biological, Medical and Health Research](https://thomaselove.github.io/2019-431-book/)"
 - Slides and other materials for each class will also be provided, with links to presentation materials and READMEs for each class session to be found in the [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md).
-    - Each class session begins with a review of that day's README, which contains links to slides and other materials. 
+    - Each class session begins with a review of that day's README, which contains links to Professor Love's slides, data sets we'll use in class, interesting tidbits from the news, and the internet, responses to student surveys, and various other materials. 
 
 ## Other Important Pages
 
-- [Software Installation and Tips](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE.md) to help you get rolling with R.
+- [Software Installation and Tips](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE.md) to help you install R, RStudio and R packages, along with the data you'll need, and then to help you get rolling with those tools.
 - [Data (and Code)](https://github.com/THOMASELOVE/2019-431-data) for the course's deliverables, presentations, and notes.
 - [Readings and Supplemental Materials](https://github.com/THOMASELOVE/2019-431/blob/master/READINGS.md) I'll refer to during the course.
 
 ## Deliverables
 
-There are several types of deliverables for this course, including regular "minute paper" surveys, more traditional "homework" assignments, a course project, and some quizzes.
+There are several types of assignments for this course, including regular "minute paper" surveys, more traditional "homework" Deliverables, a Course Project, and at least two Quizzes.
 
 - [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md) (final word for all deadlines)
 - Main [Deliverables page](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES) with Links for the Homework Assignments
