@@ -3,28 +3,37 @@
 All classes take place in room E321-323 of the Wood Building at the School of Medicine, from 1:00 to 2:15 PM.
 
 - Click on the README link for slides and more information about the associated class session.
+- Books we are reading include:
+  - **Silver** *The Signal and the Noise*. Some chapters will seem more relevant to you than others, and feel free to skim those in an initial reading. The most important chapters are the Introduction, Chapters 1-3, 6-8 and 12, according to past students in the course.
+  - **Leek** *The Elements of Data Analytic Style*. The book is short, and I encourage you to just read it as soon as possible (it won't take more than a couple of hours), then refer to it later in the term as specific issues arise.
+  - **R4DS** [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham. This semester, we'll focus more on the Explore (Section I) and Communicate (Section V) materials than we will in 432. I encourage you to read these sections at your own pace through the term.
 
 Links | Date | Description
 :------: | ----------- | ----------------------------------------
-README 01 | 2019-08-27 | Class begins. Introduction & Demonstrations.
+README 01 | 2019-08-27 | Class begins. Introduction & Demonstrations. Website, Software, Syllabus, Logistics, Data
 README 02 | 2019-08-29 | **Part A: Data Visualization** begins.
 [Deliverable A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) | 2019-08-30 | [Two activities need to be completed](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A), each due at 2 PM.
 README 03 | 2019-09-03 | 
 README 04 | 2019-09-05 | 
 [Deliverable B](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/B) | 2019-09-06 | [Seven questions, mostly about the `midwest` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/B), due at 2 PM.
+-- | 2019-09-10 | By now, you should have finished reading **Leek** Chapters 5, 9, 10 and 13, at least.
 README 05 | 2019-09-10 | 
 README 06 | 2019-09-12 | 
 [Deliverable C](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/C) | 2019-09-13 | [Eleven questions, mostly about the `faithful` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/C) due at 2 PM.
+-- | 2019-09-17 | By now, you should have finished reading **Silver** Introduction and Chapter 1
 README 07 | 2019-09-17 | 
 README 08 | 2019-09-19 | 
 [Deliverable D](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/D) | 2019-09-20 | [Seven questions, mostly about the `LBWunicef` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/D) due at 2 PM.
+-- | 2019-09-24 | By now, you should have finished reading **Silver** Chapters 2-3.
 README 09 | 2019-09-24 | 
 README 10 | 2019-09-26 | **Part B: Designing Comparisons** begins about here.
 [Deliverable E](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/E) | 2019-09-27 | [Seven questions, mostly about Fisher's `iris` data](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/E) due at 2 PM.
 [Scheduling](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/SCHEDULE) | 2019-09-30 | Complete the [Scheduling Form for Final Project Presentations](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/SCHEDULE) by 9 AM.
+-- | 2019-10-01 | By now, you should have finished reading **Leek**'s *Elements of Data Analytic Style*.
 README 11 | 2019-10-01 |
 README 12 | 2019-10-03 | 
 [Deliverable F](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/F) | 2019-10-04 | [Project Proposal](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/PROPOSAL) **and** [Decoding health news questions](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/F) due at 2 PM.
+-- | 2019-10-08 | By now, you should have finished reading **Silver** through Chapter 5.
 README 13 | 2019-10-08 | 
 README 14 | 2019-10-10 | [Quiz 1](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) available at 5 PM.
 [QUIZ 1](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) | 2019-10-14 | [Quiz 1](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) is due at noon.
@@ -32,6 +41,7 @@ README 15 | 2019-10-15 |
 -- | 2019-10-17 | *No class*. Dr. Love will be at Study Section.
 -- | 2019-10-22 | *No class*. University Fall Break.
 Deliverable G | 2019-10-23 | due at 2 PM.
+-- | 2019-10-24 | By now, you should have finished reading **Silver** through Chapter 8.
 README 16 | 2019-10-24 | 
 README 17 | 2019-10-29 | **Part C: Models and Regression** begins about here.
 README 18 | 2019-10-31 | 
@@ -39,6 +49,7 @@ Deliverable H | 2019-11-01 | due at 2 PM.
 README 19 | 2019-11-05 |
 README 20 | 2019-11-07 |
 Deliverable I | 2019-11-08 | due at 2 PM.
+-- | 2019-11-12 | By now, you should have finished reading **Silver** through Chapter 11.
 README 21 | 2019-11-12 |
 README 22 | 2019-11-14 | [Quiz 2](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) available at 5 PM.
 [QUIZ 2](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) | 2019-11-18 | [Quiz 2](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) is due at noon.
@@ -47,6 +58,7 @@ README 24 | 2019-11-21 |
 Deliverable J | 2019-11-22 | due at 2 PM.
 -- | 2019-11-26 | *No class*. Dr. Love will be out of town.
 -- | 2019-11-28 | *No class*. University Thanksgiving Break.
+-- | 2019-12-03 | By now, you should have finished reading all of **Silver**'s *The Signal and the Noise*.
 README 25 | 2019-12-03 | 
 README 26 | 2019-12-05 |
 Deliverable K | 2019-12-09 | due at 2 PM.
@@ -61,4 +73,4 @@ Everyone in the class will complete a [final project](https://github.com/THOMASE
 
 ## TA Office Hours
 
-The schedule for TA office hours will be posted here by 2019-09-01. In-person TA office hours will begin on 2019-09-03. To get help in the course, please visit TA office hours, or send a note to `431-help at case dot edu` (which opens on 2019-08-27).
+The final schedule for TA office hours will be posted here by 2019-09-01. In-person TA office hours will begin on 2019-09-03. To get help in the course, please visit TA office hours, or send a note to `431-help at case dot edu` (which opens on 2019-08-27).
