@@ -1,6 +1,6 @@
-431 Deliverable B
+431 Deliverable C
 ================
-Due **2018-09-13** at 2 PM. Last Edited 2019-08-22 14:21:01
+Due **2018-09-13** at 2 PM. Last Edited 2019-08-23 23:34:30
 
 # General Instructions
 
@@ -8,6 +8,23 @@ Deliverable C includes eleven questions. Be sure to respond to each of
 them. You are welcome (encouraged, really) to discuss Deliverable C with
 Dr. Love, the teaching assistants or your colleagues, but your answer
 must be prepared by you alone.
+
+## An R Markdown Template for Deliverable C
+
+We have again provided a useful R Markdown document template for this
+assignment called `YOURNAME-deliverableC.Rmd` that you should use to
+complete your work.
+
+  - The `YOURNAME-deliverableC.Rmd` file is available in the [main
+    folder for Deliverable
+    C](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/C).
+  - The file is also found on the [Data (and code)
+    page](https://github.com/THOMASELOVE/2019-431-data) of our web site.
+    Just click on the green **Clone or download** button and select
+    Download ZIP to get the files you’ll need, including the
+    `YOURNAME-deliverableC.Rmd` template, as part of a ZIP file. Unzip
+    the file on your computer into a directory you can find again, and
+    you’ll be ready to go.
 
 ## The Data for Deliverable C
 
