@@ -18,8 +18,6 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
     - Jeffrey Leek, *The Elements of Data Analytic Style*, available at https://leanpub.com/datastyle.
 4. In the meantime, take a look at the course materials posted on this site. Remember that everything here is a work in progress, with new materials are arriving regularly from now until the end of the course in December.
 
-## Work is in progress here, *especially* including the Project page, the Data page, and Chapters 5-14 from the Course Notes. Lots of little things in other places will also change between now and the start of class on 2019-08-27.
-
 ## Key Links 
 
 - The [Course Syllabus](https://thomaselove.github.io/2019-431-syllabus/)
@@ -44,6 +42,16 @@ There are several types of assignments for this course, including regular "minut
 - Main [Deliverables page](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES) with Links for the Homework Assignments
 - The [Course Project](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT) page
 - The [Quizzes](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) page
+
+## Pep Talk! (Thanks, [Andrew Heiss](https://evalf19.classes.andrewheiss.com/syllabus/#pep-talk))
+
+Learning R can be difficult at first - it’s like learning a new lanugage, just like Spanish, French, or Chinese. Hadley Wickham—the chief data scientist at RStudio and the author of some amazing R packages you’ll be using like `ggplot2` [made this wise observation](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/):
+
+> It’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It’s just a natural part of programming. So, it happens to everyone and gets less and less over time. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later.
+
+If you’re finding yourself taking way too long hitting your head against a wall and not understanding, take a break, talk to classmates, ask questions at `431-help at case dot edu`, e-mail Dr. Love, etc.
+
+I promise you can do this.
 
 ## Old Versions of the Course
 
