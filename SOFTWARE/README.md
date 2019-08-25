@@ -1,6 +1,14 @@
 # Software for 431 in Fall 2019
 
+## RStudio Cloud
+
+(borrowed in part from [Andrew Heiss](https://evalf19.classes.andrewheiss.com/syllabus/))
+
+R is free, but it can sometimes be a pain to install and configure. To make life easier, you can (and should!) use [the free RStudio.cloud service](http://rstudio.cloud/), which lets you run a full instance of RStudio in your web browser. This means you won’t have to install anything on your computer to get started with R! We will have a shared class workspace in RStudio.cloud that will let you quickly copy templates for some of your work, too. RStudio.cloud is convenient, but it can be slow and it is not designed to be able to handle larger datasets or more complicated analysis. 
+
 ## Installation
+
+Over the course of the semester, you’ll probably want to get around to installing R, RStudio, and other R packages on your computer and wean yourself off of [RStudio.cloud](http://rstudio.cloud/). This isn’t absolutely necessary (especially early on), but we'd like you to have this done by the end of September.
 
 - Visit [the Install R page](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/installR.md) for complete information on installing R and RStudio as well as obtaining the data and code you'll need in 431, on either a PC or a Macintosh computer.
 - Visit [the R Packages page](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/PACKAGES.md) for details on the R packages we're using in 431.
@@ -19,6 +27,9 @@ If you need more help, you might look at [this terrific resource for Installing 
         - This template, along with templates for some of the course Deliverables, is available on our [Data (and code) page](https://github.com/THOMASELOVE/2019-431-data).
 3. We can also recommend Chester Ismay and Patrick Kennedy's [Getting Used to R, RStudio and R Markdown](https://rbasics.netlify.com/) as an introduction to the basics.
 4. The [Course Notes](https://thomaselove.github.io/2019-431-book/), of course, are a source of many useful examples in how to use R.
+5. [You can do this!](https://github.com/THOMASELOVE/2019-431/blob/master/README.md#pep-talk-thanks-andrew-heiss)
+
+There are many, many online resources to help you with working in R, in addition to emailing us at `431-help at case dot edu`. An especially useful one is the [RStudio Community](https://community.rstudio.com/) (a forum specifically designed for people using RStudio and the tidyverse (i.e. you)).
 
 ## Advice on Technology / System Requirements
 
