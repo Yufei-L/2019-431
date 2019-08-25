@@ -41,4 +41,4 @@ If you have a complaint about your grade on a Deliverable, please first review [
     - [The Assignment](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/F)
     - [Instructions for the Project Proposal](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/PROPOSAL)
     - [Post-Assignment Materials] 
-- Deliverables G and beyond will be posted soon.
+- Deliverables G and beyond **will be posted soon**.
