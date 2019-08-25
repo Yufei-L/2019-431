@@ -16,7 +16,7 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 3. We'll read two books this semester that you'll need to purchase (combined price is about $25):
     - Nate Silver, *The Signal and the Noise* ISBN-13: 978-1594204111 [Amazon Link](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087), and
     - Jeffrey Leek, *The Elements of Data Analytic Style*, available at https://leanpub.com/datastyle.
-4. In the meantime, take a look at the course materials posted on this site. Remember that everything here is a work in progress, with new materials are arriving regularly from now until the end of the course in December.
+4. In the meantime, take a look at the course materials posted on this site, especially the key links below. Everything here is work in progress, with new materials are arriving regularly from now until the end of the course in December.
 
 ## Key Links 
 
