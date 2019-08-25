@@ -3,7 +3,7 @@
 ## Links to the Deliverables
 
 Deliverable | Deadline | Your Assignment | Post-Deadline Materials
-:----------: | ----------: | :----------------: | :---------------:
+:----------: | :----------: | :----------------: | :---------------:
 A | 2019-08-30 at 2 PM | [Deliverable A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) | [A: Post-Deadline Materials] 
 B | 2019-09-06 at 2 PM | [Deliverable B](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/B) | [B: Post-Deadline Materials]  
 C | 2019-09-13 at 2 PM | [Deliverable C](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/C) | [C: Post-Deadline Materials] 
