@@ -72,8 +72,8 @@ There are several types of assignments for this course, including regular "minut
 ## One Last Thing
 
 - If you're interested in reading about a scientific model to explain the data analysis process, you might enjoy this article by Hadley Wickham and Garrett Grolemund called [A Cognitive Interpretation of Data Analysis](http://vita.had.co.nz/papers/sensemaking.html).
-- You might be more interested in some slightly lighter fare, in which case, I'd recommend these two pieces from [FiveThirtyEight](https://fivethirtyeight.com).
-    - [Your Tweets Are Somehow Worthy of Scientific Study](https://fivethirtyeight.com/features/your-tweets-are-somehow-worthy-of-scientific-study/) by Maggie Koerth-Baker
+- Interested in something a little lighter? I recommend these pieces from [FiveThirtyEight](https://fivethirtyeight.com).
+    - [We Can Predict Where Measles Will Happen. Why Don’t We?](https://fivethirtyeight.com/features/we-can-predict-where-measles-will-happen-why-dont-we/) by Maggie Koerth-Baker, 2019-06-24.
     - For a local touch, try [The Browns Are A Hot Super Bowl Pick For 2019. (Wait, What?)](https://fivethirtyeight.com/features/the-browns-are-a-hot-super-bowl-pick-for-2019-wait-what/) from Neal Paine on 2019-07-15.
         - Of course, last year I pointed students to Neal's article from  2018-08-20, entitled: [The Browns’ Suckiness Defies Math And Reason](https://fivethirtyeight.com/features/the-browns-suckiness-defies-math-and-reason/), so there's that.
 
