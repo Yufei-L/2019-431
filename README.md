@@ -25,7 +25,7 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 - The [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md) is the final word for all deadlines, and provides links for all deliverables and class sessions.
 - Professor Love's [Course Notes](https://thomaselove.github.io/2019-431-book/)
     - This is the main textbook, and provides a series of examples of using R to work through issues that will likely come up in the course. Its current title is "[Data Science for Biological, Medical and Health Research](https://thomaselove.github.io/2019-431-book/)"
-- Slides and other materials for each class will also be provided, with links to presentation materials and READMEs for each class session to be found in the [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md).
+- [Slides and other materials for each class](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES) will also be provided, with links to presentation materials and READMEs for each class session to be found in the [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md).
     - Each class session begins with a review of that day's README, which contains links to Professor Love's slides, data sets we'll use in class, interesting tidbits from the news, and the internet, responses to student surveys, and various other materials. 
 
 ## Other Important Pages
