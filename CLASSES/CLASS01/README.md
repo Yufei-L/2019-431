@@ -12,6 +12,7 @@ Welcome to PQHS / CRSP / MPHP 431!
 
 - Get help at any time by emailing **431-help at case dot edu**. 
 - The main web site for this course is https://github.com/THOMASELOVE/2019-431.
+- You can do this!
 
 ### As you arrive
 
