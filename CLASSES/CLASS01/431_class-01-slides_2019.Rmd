@@ -294,6 +294,7 @@ ggplot(filter(ageguess, year == 2018), aes(x = true.age, y = error, fill = sex))
 4. Obtain Nate Silver's [\color{blue}{The Signal and the Noise}](http://goo.gl/lS9LQ2).
 5. Read [\color{blue}{the syllabus}](https://thomaselove.github.io/2019-431-syllabus/) and look at the rest of [\color{blue}{the website}](https://github.com/THOMASELOVE/2019-431). Make sure you view the [\color{blue}{Course Notes}](https://thomaselove.github.io/2019-431-book/).
 6. Ask us questions. TA office hours start next week, but email is available now.
+7. You have a first deliverable, due Friday at 2 PM. [\color{blue}{Get started now!}](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A)
 
 - Course Web Site: \color{blue} https://github.com/THOMASELOVE/2019-431 \color{black}
 - Want help? Email \color{blue} `431-help@case.edu` \color{black}
