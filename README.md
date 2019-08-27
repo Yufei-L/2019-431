@@ -11,7 +11,7 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 
 ## What Must I Do Before the First Class at 1 PM on August 27?
 
-1. Register for the course.
+1. Register for the course. Verify that I've gathered your information correctly on http://bit.ly/431-2019-roster-check, as well.
 2. Fill out the "Welcome to 431" Survey at http://bit.ly/431-2019-welcome-survey.
 3. We'll read two books this semester that you'll need to purchase (combined price is about $25):
     - Nate Silver, *The Signal and the Noise* ISBN-13: 978-1594204111 [Amazon Link](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087), and
