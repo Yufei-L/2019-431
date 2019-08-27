@@ -21,7 +21,7 @@ When you arrive in class, we'll ask you to take:
 
 If you have access to a computer, verify that you're on [the course roster](http://bit.ly/431-2019-roster-check) and that I've correctly captured your information, please.
 
-Also, three of you (as of 8:40 AM) had yet to fill in the form at http://bit.ly/431-2019-welcome-survey. Please do.
+Also, two of you (as of 11:30 AM) had yet to fill in the form at http://bit.ly/431-2019-welcome-survey. Please do. [Here are some initial comments on that welcome survey](https://docs.google.com/document/d/1k5zLv31yDrpLn06F9Wady3wO5VfqXSiytVhrv8TEMwk/edit?usp=sharing)
 
 ### What Do You Need To Do Before Class 2, on Thursday at 1 PM?
 
