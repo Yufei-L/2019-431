@@ -72,6 +72,6 @@ There are several types of assignments for this course, including regular "minut
 - If you're interested in reading about a scientific model to explain the data analysis process, you might enjoy this article by Hadley Wickham and Garrett Grolemund called [A Cognitive Interpretation of Data Analysis](http://vita.had.co.nz/papers/sensemaking.html).
 - Interested in something a little lighter? I recommend these pieces from [FiveThirtyEight](https://fivethirtyeight.com).
     - [We Can Predict Where Measles Will Happen. Why Don’t We?](https://fivethirtyeight.com/features/we-can-predict-where-measles-will-happen-why-dont-we/) by Maggie Koerth-Baker, 2019-06-24.
-    - For a local touch, try [The Browns Are A Hot Super Bowl Pick For 2019. (Wait, What?)](https://fivethirtyeight.com/features/the-browns-are-a-hot-super-bowl-pick-for-2019-wait-what/) from Neal Paine on 2019-07-15.
-        - Of course, last year I pointed students to Neal's article from  2018-08-20, entitled: [The Browns’ Suckiness Defies Math And Reason](https://fivethirtyeight.com/features/the-browns-suckiness-defies-math-and-reason/), so there's that.
+    - Or maybe [The Browns Are A Hot Super Bowl Pick For 2019. (Wait, What?)](https://fivethirtyeight.com/features/the-browns-are-a-hot-super-bowl-pick-for-2019-wait-what/) from Neal Paine on 2019-07-15.
+        - Of course, last year I pointed students to Neal's article entitled: [The Browns’ Suckiness Defies Math And Reason](https://fivethirtyeight.com/features/the-browns-suckiness-defies-math-and-reason/) from 2018-08-20, so there's that.
 
