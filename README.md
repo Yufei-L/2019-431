@@ -30,7 +30,7 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 
 ## Other Important Pages
 
-- [Software Installation and Tips](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE.md) to help you install R, RStudio and R packages, along with the data you'll need, and then to help you get rolling with those tools.
+- [Software Installation and Tips](https://github.com/THOMASELOVE/2019-431/tree/master/SOFTWARE) to help you install R, RStudio and R packages, along with the data you'll need, and then to help you get rolling with those tools.
 - [Data (and Code)](https://github.com/THOMASELOVE/2019-431-data) for the course's deliverables, presentations, and notes.
 - [Readings and Supplemental Materials](https://github.com/THOMASELOVE/2019-431/blob/master/READINGS.md) I'll refer to during the course.
 
