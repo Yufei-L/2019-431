@@ -33,6 +33,7 @@ Fill in the form at http://bit.ly/431-2019-welcome-survey if you haven't already
 4. Read the [Course Syllabus](https://thomaselove.github.io/2019-431-syllabus/), check out the [Course Notes](https://thomaselove.github.io/2019-431-book/), and familiarize yourself with what's available on the [Course Website](https://github.com/THOMASELOVE/2019-431).
 5. If you are interested in / capable of taking on the task of audio-recording the class, then making those recordings available for the group, please let Dr. Love know. Thanks.
 6. If you have questions about the course, please ask us at **431-help at case dot edu**. TA office hours begin Tuesday 2019-09-03 and those details will appear on the [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md).
+7. You have a first "deliverable" or homework assignment, due Friday 2019-08-30 at 2 PM. [Get started on it now](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A).
 
 ## Key Links 
 
