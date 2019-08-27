@@ -30,6 +30,7 @@ Fill in the form at http://bit.ly/431-2019-welcome-survey if you haven't already
 3. Order/obtain the two books you need to buy for this course (combined price: about $25). They are:
     - Jeff Leek's [The Elements of Data Analytic Style](https://leanpub.com/datastyle)
     - Nate Silver's [The Signal and the Noise](http://goo.gl/lS9LQ2)
+    - The [Course Calendar] indicates when you need to be reading each book.
 4. Read the [Course Syllabus](https://thomaselove.github.io/2019-431-syllabus/), check out the [Course Notes](https://thomaselove.github.io/2019-431-book/), and familiarize yourself with what's available on the [Course Website](https://github.com/THOMASELOVE/2019-431).
 5. If you are interested in / capable of taking on the task of audio-recording the class, then making those recordings available for the group, please let Dr. Love know. Thanks.
 6. If you have questions about the course, please ask us at **431-help at case dot edu**. TA office hours begin Tuesday 2019-09-03 and those details will appear on the [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md).
@@ -65,9 +66,6 @@ There are several types of assignments for this course, including regular "minut
     - If you liked that, you might enjoy the [20-minute Ted Talk from 2007](https://www.youtube.com/watch?v=RUwS1uAdUcI)
     - Or the [full documentary from the BBC on The Joy of Stats](https://www.gapminder.org/videos/the-joy-of-stats/)
     - Or this [video playlist from the Gapminder Project](https://www.gapminder.org/videos/)
-- As mentioned, you need to buy two books for this course (combined price: about $25). They are:
-    - Jeff Leek's [The Elements of Data Analytic Style](https://leanpub.com/datastyle)
-    - Nate Silver's [The Signal and the Noise](http://goo.gl/lS9LQ2)
 
 ## One Last Thing
 
