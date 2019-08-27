@@ -19,9 +19,9 @@ When you arrive in class, we'll ask you to take:
 - a copy of a **survey** as well as an **index card** from the teaching assistants. 
 - Please wait for further instructions **before** writing anything down.
 
-### Please Do This As Soon As Possible
+If you have access to a computer, verify that you're on [the course roster](http://bit.ly/431-2019-roster-check) and that I've correctly captured your information, please.
 
-Fill in the form at http://bit.ly/431-2019-welcome-survey if you haven't already done so.
+Also, three of you (as of 8:40 AM) had yet to fill in the form at http://bit.ly/431-2019-welcome-survey. Please do.
 
 ### What Do You Need To Do Before Class 2, on Thursday at 1 PM?
 
