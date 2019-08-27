@@ -2,7 +2,7 @@
 
 ## Today's Slides
 
-Class 1 slides are available in [PDF format](), as well as in [R Markdown]().
+Class 1 slides are available in [PDF format](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS01/431_class-01-slides_2019.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS01/431_class-01-slides_2019.Rmd) if you want to see how I built them.
 
 Audio of Class 1 will be posted when available.
 
