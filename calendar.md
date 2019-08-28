@@ -3,6 +3,7 @@
 All classes take place in room E321-323 of the Wood Building at the School of Medicine, from 1:00 to 2:15 PM.
 
 - Click on the README link for slides and more information about the associated class session.
+- TA office hours are posted [at the bottom of the calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours). They begin on the morning of 2019-09-03.
 - Books we are reading include:
   - **Silver** *The Signal and the Noise*. Some chapters will seem more relevant to you than others, and feel free to skim those in an initial reading. The most important chapters are the Introduction, Chapters 1-3, 6-8 and 12, according to past students in the course.
   - **Leek** *The Elements of Data Analytic Style*. The book is short, and I encourage you to just read it as soon as possible (it won't take more than a couple of hours), then refer to it later in the term as specific issues arise.
