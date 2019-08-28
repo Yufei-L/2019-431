@@ -12,7 +12,7 @@ All classes take place in room E321-323 of the Wood Building at the School of Me
 Links | Date | Description
 :------: | ----------- | ----------------------------------------
 [README 01](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS01) | 2019-08-27 | Class begins. Demonstrations, Logistics, Guessing Ages.
-README 02 | 2019-08-29 | **Part A: Data Visualization** begins.
+[README 02](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS02) | 2019-08-29 | **Part A: Data Visualization** begins.
 [Deliverable A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) | 2019-08-30 | [Two activities need to be completed](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A), each due at 2 PM.
 README 03 | 2019-09-03 | 
 README 04 | 2019-09-05 | 
