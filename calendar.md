@@ -73,4 +73,16 @@ Everyone in the class will complete a [final project](https://github.com/THOMASE
 
 ## TA Office Hours
 
-The final schedule for TA office hours will be posted here by 2019-09-01. In-person TA office hours will begin on 2019-09-03. To get help in the course, please visit TA office hours, or send a note to `431-help at case dot edu` (which opens on 2019-08-27).
+To get help in the course, please visit TA office hours, or send a note to `431-help at case dot edu` (which is now available.) TA office hours are held in either WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places. If you need directions, let us know. Here's the schedule:
+
+Mondays | Tuesdays | Wednesdays | Thursdays | Fridays
+:----------: | :----------: | :----------: | :----------: | :----------: 
+11:30 am to 12:45 pm | 11:30 to 12:45 | -- | 11:30 to 12:45 | 11:30 to 12:45
+-- | -- | 12:45 pm to 2:00 pm | -- | 12:45 to 2:00
+-- | 2:30 pm to 3:45 pm | -- | 2:30 to 3:45 | --
+-- | 5:30 pm to 6:45 pm | -- | 5:30 to 6:45 | --
+
+TA office hours will begin on the morning of 2019-09-03, and end on 2019-12-06, and are not held during the week of Thanksgiving.
+
+
+
