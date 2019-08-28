@@ -8,7 +8,7 @@
 ## Today's Announcements
 
 1. **First Homework is Due Tomorrow** Your first "deliverable" is due this Friday (tomorrow) 2019-08-30 at 2 PM. [Get started on it now](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A).
-2. **Audio recordings** If you are interested in / capable of taking on the task of audio-recording the class, then making those recordings available for the group, please let Dr. Love know. Thanks.
+2. **Audio recordings** If you are interested in or just capable of taking on the task of audio-recording the class, please let Dr. Love know. Thanks.
 3. At any time, including now, if you have questions about the course, please ask us at **431-help at case dot edu**. 
 4. **TA Office Hours** wil be held in either WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places. If you need directions, let us know. The schedule is now posted to the bottom of the [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md), and below.
 
@@ -22,16 +22,15 @@ Mondays | Tuesdays | Wednesdays | Thursdays | Fridays
 - Note that TA office hours begin Tuesday 2019-09-03, and end on Friday 2019-12-06, and are not held during the week of Thanksgiving. 
 - Dr. Love is available to meet with you 15 minutes before class, as well as afterwards, and by appointment. His office is Wood WG-82J. Send him an email to set up an appointment.
 
-
 ## Links for Today 
 
 1. Prior to the start of class, I asked you to fill out a survey online, at http://bit.ly/431-2019-welcome-survey. Today, we'll spend a little time [working through this summary](https://docs.google.com/document/d/1k5zLv31yDrpLn06F9Wady3wO5VfqXSiytVhrv8TEMwk/edit?usp=sharing), to help set expectations.
 
 During Class 01, we engaged in several data collection activities:
 
-2. You worked with a partner to complete a survey (on paper) that involved 15 questions. I've entered the data in the `surveyday1_2019.csv` file, and we'll discuss them today.
-3. Also, we made some group guesses about the age of people in a series of photographs. The data from that activity are now available in the Google Sheet at http://bit.ly/431-2019-day1-ageguess.
-4. Each of you also made two guesses at my age, which was just over 52.5 years on Tuesday. Those guesses are in the `love-age-guess-2019.csv` file.
+2. You worked with a partner to complete a survey (on paper) that involved 15 questions. I've entered the data in the [`surveyday1_2019.csv` file](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS02/surveyday1_2019.csv) above, and we'll discuss those data a bit today.
+3. Also, we made some group guesses about the age of people in a series of photographs. The data from that activity are now available in the Google Sheet at http://bit.ly/431-2019-day1-ageguess. I've also built a small summary of the data historically in the [`photo-age-history-2019.csv` file](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS02/photo-age-history-2019.csv).
+4. Each of you also made two guesses at my age, which was just over 52.5 years on Tuesday. Those guesses are in the [`love-age-guess-2019.csv` file](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS02/love-age-guess-2019.csv).
 
 
 ## One Last Thing (Didn't get to this stuff in Class 01, so it returns)
