@@ -22,6 +22,8 @@ which explains what the plot indicates about the relationship between
 the two variables, and (more generally) what you have learned about the
 data (or science) from the plot.
 
+**Note** If you cannot use R to learn about the data for some reason, try https://www.rdocumentation.org/packages/datasets/versions/3.6.1/topics/DNase.
+
 Submit your paragraph (as either a Word or PDF file) to Canvas at
 <https://canvas.case.edu/> in Deliverable A.
 
