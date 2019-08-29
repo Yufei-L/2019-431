@@ -9,15 +9,6 @@ The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM in Room E32
 - If you have questions before our first class on **2019-08-27**, email Professor Love at `Thomas dot Love at case dot edu`.
 - Starting 2019-08-27, contact Professor Love (and the Teaching Assistants) by emailing **431-help at case dot edu**. 
 
-## What Must I Do Before the First Class at 1 PM on August 27?
-
-1. Register for the course. Verify that I've gathered your information correctly on http://bit.ly/431-2019-roster-check, as well.
-2. Fill out the "Welcome to 431" Survey at http://bit.ly/431-2019-welcome-survey.
-3. We'll read two books this semester that you'll need to purchase (combined price is about $25):
-    - Nate Silver, *The Signal and the Noise* ISBN-13: 978-1594204111 [Amazon Link](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087), and
-    - Jeffrey Leek, *The Elements of Data Analytic Style*, available at https://leanpub.com/datastyle.
-4. In the meantime, take a look at the course materials posted on this site, especially the key links below. Everything here is work in progress, with new materials are arriving regularly from now until the end of the course in December.
-
 ## Key Links 
 
 - The [Course Syllabus](https://thomaselove.github.io/2019-431-syllabus/)
@@ -42,6 +33,15 @@ There are several types of assignments for this course, including regular "minut
 - Main [Deliverables page](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES) with Links for the Homework Assignments. The **first homework** (Deliverable A) is due on Friday 2019-08-30 at 2 PM.
 - The [Course Project](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT) page
 - The [Quizzes](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) page
+
+## What Must I Do Before the First Class at 1 PM on August 27?
+
+1. Register for the course. Verify that I've gathered your information correctly on http://bit.ly/431-2019-roster-check, as well.
+2. Fill out the "Welcome to 431" Survey at http://bit.ly/431-2019-welcome-survey.
+3. We'll read two books this semester that you'll need to purchase (combined price is about $25):
+    - Nate Silver, *The Signal and the Noise* ISBN-13: 978-1594204111 [Amazon Link](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087), and
+    - Jeffrey Leek, *The Elements of Data Analytic Style*, available at https://leanpub.com/datastyle.
+4. In the meantime, take a look at the course materials posted on this site, especially the key links below. Everything here is work in progress, with new materials are arriving regularly from now until the end of the course in December.
 
 ## Pep Talk! (Thanks, [Andrew Heiss](https://evalf19.classes.andrewheiss.com/syllabus/#pep-talk))
 
