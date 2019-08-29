@@ -11,7 +11,7 @@
     - I added a link which should make it possible to complete the work even if you're having trouble using R for some reason.
 2. **Audio recordings** If you are interested in or just capable of taking on the task of audio-recording the class, please let Dr. Love know. Thanks.
 3. At any time, including now, if you have questions about the course, please ask us at **431-help at case dot edu**. 
-4. **TA Office Hours** wil be held in either WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places. If you need directions, let us know. The schedule is now posted to the bottom of the [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md), and below.
+4. **TA Office Hours** wil be held in either WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places. **If you need directions, let us know.** The schedule is now posted to the bottom of the [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md), and below.
 
 Mondays | Tuesdays | Wednesdays | Thursdays | Fridays
 :----------: | :----------: | :----------: | :----------: | :----------: 
