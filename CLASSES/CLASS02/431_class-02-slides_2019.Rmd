@@ -33,7 +33,7 @@ survey1 <- read_csv("data/surveyday1_2019.csv")
 
 Contact us at \color{blue} `431-help@case.edu` \color{black}
 
-Our web site: \color{blue} https://github.com/THOMASELOVE/431-2018 \color{black}
+Our web site: \color{blue} https://github.com/THOMASELOVE/2019-431 \color{black}
 
 ## Data Science
 
@@ -290,7 +290,7 @@ Find me (office: Wood WG-82J) T Th 12:30 - 1 and immediately after class, or ema
 
 Contact us at \color{blue} `431-help@case.edu` \color{black}
 
-Our web site: \color{blue} https://github.com/THOMASELOVE/431-2018 \color{black}
+Our web site: \color{blue} https://github.com/THOMASELOVE/2019-431 \color{black}
 
 ## Some Course Policies (1 of 2)
 
@@ -334,6 +334,8 @@ If so, you'd want to:
 But, perhaps you haven't gotten to that yet. So we have RStudio Cloud.
 
 Link to join is: \color{blue} http://bit.ly/431-2019-join-cloud \color{black}
+
+# We Stopped Here in Class 02. We'll do the rest in Class 03.
 
 ## Analyzing the Index Card Guesses of My Age
 
