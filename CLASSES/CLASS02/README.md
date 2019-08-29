@@ -35,7 +35,13 @@ During Class 01, we engaged in several data collection activities:
 5. Each of you also made two guesses at my age, which was just over 52.5 years on Tuesday. Those guesses are in the [`love-age-guess-2019.csv` file](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS02/love-age-guess-2019.csv).
 
 
-## One Last Thing (Didn't get to this stuff in Class 01, so it returns)
+## One Last Thing 
+
+![](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS02/2019-08-24_NYT_fire.png)
+
+- This is from "What Satellite Imagery Tells Us About the Amazon Rain Forest Fires" at [the New York Times, 2019-08-24](https://www.nytimes.com/interactive/2019/08/24/world/americas/amazon-rain-forest-fire-maps.html) by K. K. Rebecca Lai, Denise Lu and Blacki Migliozzi.
+
+### Didn't get to this stuff in Class 01, so it returns
 
 - If you're interested in reading about a scientific model to explain the data analysis process, you might enjoy this article by Hadley Wickham and Garrett Grolemund called [A Cognitive Interpretation of Data Analysis](http://vita.had.co.nz/papers/sensemaking.html).
 - Interested in something a little lighter? I recommend these pieces from [FiveThirtyEight](https://fivethirtyeight.com).
