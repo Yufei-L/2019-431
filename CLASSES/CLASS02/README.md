@@ -23,6 +23,8 @@ Mondays | Tuesdays | Wednesdays | Thursdays | Fridays
 - Note that TA office hours begin Tuesday 2019-09-03, and end on Friday 2019-12-06, and are not held during the week of Thanksgiving. 
 - Dr. Love is available to meet with you 15 minutes before class, as well as afterwards, and by appointment. His office is Wood WG-82J. Send him an email to set up an appointment.
 
+5. If **Andrew Levite** or **Wail Yar** are in the room, could you come up and see me after class, please?
+
 ## Links for Today 
 
 1. The link to join the RStudio Cloud I've set up is http://bit.ly/431-2019-join-cloud.
