@@ -39,7 +39,7 @@ During Class 01, we engaged in several data collection activities:
 
 ![](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS02/2019-08-24_NYT_fire.png)
 
-- This is from "What Satellite Imagery Tells Us About the Amazon Rain Forest Fires" at [the New York Times, 2019-08-24](https://www.nytimes.com/interactive/2019/08/24/world/americas/amazon-rain-forest-fire-maps.html) by K. K. Rebecca Lai, Denise Lu and Blacki Migliozzi.
+- Source: "[What Satellite Imagery Tells Us About the Amazon Rain Forest Fires](https://www.nytimes.com/interactive/2019/08/24/world/americas/amazon-rain-forest-fire-maps.html)" by K. K. Rebecca Lai, Denise Lu and Blacki Migliozzi, at the *New York Times*, 2019-08-24.
 
 ### Didn't get to this stuff in Class 01, so it returns
 
@@ -49,3 +49,4 @@ During Class 01, we engaged in several data collection activities:
     - Or maybe [The Browns Are A Hot Super Bowl Pick For 2019. (Wait, What?)](https://fivethirtyeight.com/features/the-browns-are-a-hot-super-bowl-pick-for-2019-wait-what/) from Neal Paine on 2019-07-15.
         - Of course, last year I pointed students to Neal's article entitled: [The Browns’ Suckiness Defies Math And Reason](https://fivethirtyeight.com/features/the-browns-suckiness-defies-math-and-reason/) from 2018-08-20, so there's that.
 
+Enjoy your weekend!
