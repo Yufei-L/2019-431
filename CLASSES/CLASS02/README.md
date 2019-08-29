@@ -2,7 +2,7 @@
 
 ## Today's Slides
 
-- Class 2 slides are available in [PDF format](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS02/431_class-02-slides_2019.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS02/431_class-02-slides_2019.Rmd) if you want to see how I built them.
+- Class 2 slides are available in [PDF format](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS02/431_class-02-slides_2019.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS02/431_class-02-slides_2019.Rmd) if you want to see how I built them. We got through slide 37, essentially, today. We'll hit the rest on Tuesday.
 - An audio recording of Class 1 was posted to http://bit.ly/431-2019-audio on 2019-08-27. The audio recording for Class 2 will appear there as soon as possible.
 
 ## Today's Announcements
