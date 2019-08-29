@@ -28,7 +28,7 @@ Mondays | Tuesdays | Wednesdays | Thursdays | Fridays
 ## Links for Today 
 
 1. The link to join the RStudio Cloud I've set up is http://bit.ly/431-2019-join-cloud.
-2. Prior to the start of class, I asked you to fill out a survey online, at http://bit.ly/431-2019-welcome-survey. Today, we'll spend a little time [working through this summary](https://docs.google.com/document/d/1k5zLv31yDrpLn06F9Wady3wO5VfqXSiytVhrv8TEMwk/edit?usp=sharing){:target="_blank"}, to help set expectations.
+2. Prior to the start of class, I asked you to fill out a survey online, at http://bit.ly/431-2019-welcome-survey. Today, we'll spend a little time [working through this summary](https://docs.google.com/document/d/1k5zLv31yDrpLn06F9Wady3wO5VfqXSiytVhrv8TEMwk/edit?usp=sharing), to help set expectations.
 
 During Class 01, we engaged in several data collection activities:
 
