@@ -7,7 +7,7 @@
 
 ## Today's Announcements
 
-1. **First Homework is Due Tomorrow** Your first "deliverable" is due this Friday (tomorrow) 2019-08-30 at 2 PM. [Get started on it now](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A). 
+1. **First Homework is Due Tomorrow** Your first "deliverable" is due this Friday (tomorrow) 2019-08-30 at 2 PM. [Get started on it now](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A){target="_blank"}. 
     - I added a link which should make it possible to complete the work even if you're having trouble using R for some reason.
 2. **Audio recordings** If you are interested in or just capable of taking on the task of audio-recording the class, please let Dr. Love know. Thanks.
 3. At any time, including now, if you have questions about the course, please ask us at **431-help at case dot edu**. 
