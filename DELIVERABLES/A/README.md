@@ -2,7 +2,7 @@
 ================
 Due **2018-08-30** at 2 PM. Last Edited 2019-08-16 23:27:23
 
-## Note: The Answer Sketch is now posted, in pdf and R Markdown, above.
+## Note: Answer Sketch is now available [in pdf](https://github.com/THOMASELOVE/2019-431/blob/master/DELIVERABLES/A/sketch_A.pdf) and [R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/DELIVERABLES/A/sketch_A.pdf).
 
 Deliverable A requires you to complete two activities. Completing each
 activity is worth 15 points, for a total of 30.
