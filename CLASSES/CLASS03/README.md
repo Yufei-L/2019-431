@@ -7,4 +7,6 @@
 
 ## Announcements
 
-More to come.
+1. The [Answer Sketch for Deliverable A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) is now available, in either PDF or R Markdown format.
+
+
