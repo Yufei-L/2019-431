@@ -47,9 +47,8 @@ With the R Markdown file, and a detailed explanation of the problem you see, we 
 
 1. *Numlock* is a daily morning news brief about numbers in the news that sometimes has some interesting stuff. Visit https://numlock.substack.com/subscribe to check it out and sign up to get the emails, if you're interested. There is also a paid subscription option if you're interested.
 2. You may also be interested in *Significant Digits* from FiveThirtyEight - it's one of the newsletters at https://fivethirtyeight.com/newsletter/ - they also have a weekly newsletter which I subscribe to, along with other more specialized pieces.
-3. 
 
 ## One Last Thing
 
-- Do you know about the [R Studio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)?
+- Do you know about [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)?
 
