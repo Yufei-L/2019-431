@@ -67,5 +67,5 @@ With the R Markdown file, and a detailed explanation of the problem you see, we 
 
 ## One Last Thing
 
-- Do you know about [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)?
-
+![](https://github.com/THOMASELOVE/links_teaching/blob/master/images/2017-06-30_bryan.png)
+- Source: Jenny Bryan [@JennyBryan 2017-06-30](https://twitter.com/jennybryan/status/880922371225288709)
