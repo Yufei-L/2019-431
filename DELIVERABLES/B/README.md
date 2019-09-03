@@ -1,41 +1,40 @@
-431 Deliverable B
+431 Homework B
 ================
-Due **2018-09-06** at 2 PM. Last Edited 2019-08-23 23:31:35
+Due 2019-09-06 at 2 PM. Version 2019-09-02
 
 # General Instructions
 
-Deliverable B includes seven questions. Be sure to respond to each of
-them.
+Homework B includes seven questions. Be sure to respond to each of them.
 
-## An R Markdown Template for Deliverable B
+## An R Markdown Template for Homework B
 
 You will analyze some data, and prepare a report in the form of an HTML
 file, using R Markdown. We have provided you with a very useful R
 Markdown document template for this assignment called
-`YOURNAME-deliverableB.Rmd` that you should use to complete your work.
+`YOURNAME-HomeworkB.Rmd` that you should use to complete your work.
 
-  - The `YOURNAME-deliverableB.Rmd` file is available in the [main
-    folder for Deliverable
-    B](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/B).
+  - The `YOURNAME-homeworkB.Rmd` file is available in the [main folder
+    for Homework
+    B](https://github.com/THOMASELOVE/2019-431/tree/master/HomeworkS/B).
   - The file is also found on the [Data (and code)
     page](https://github.com/THOMASELOVE/2019-431-data) of our web site.
     Just click on the green **Clone or download** button and select
-    Download ZIP to get the files you’ll need, including the
-    `YOURNAME-deliverableB.Rmd` template, as part of a ZIP file. Unzip
-    the file on your computer into a directory you can find again, and
-    you’ll be ready to go.
+    Download ZIP to get the files you will need, including the
+    `YOURNAME-homeworkB.Rmd` template, as part of a ZIP file. Unzip the
+    file on your computer into a directory you can find again, and you
+    should be ready to go.
 
-## The Data for Deliverable B
+## The Data for Homework B
 
-Deliverable B uses data from the `midwest` data set, which is part of
-the `ggplot2` package (which is part of the `tidyverse`) so by loading
-the `tidyverse` package, we will have direct access to the `midwest`
-data by typing `midwest`. The `midwest` data describe demographic
-information for 437 counties in the midwestern United States. You might
-use `?midwest` to obtain a little bit of additional information about
-these data, and/or use `View(midwest)` to get a look at a
-spreadsheet-style view of the data. We will focus on just four variables
-in Deliverable B taken from this data set:
+Homework B uses data from the `midwest` data set, which is part of the
+`ggplot2` package (which is part of the `tidyverse`) so by loading the
+`tidyverse` package, we will have direct access to the `midwest` data by
+typing `midwest`. The `midwest` data describe demographic information
+for 437 counties in the midwestern United States. You might use
+`?midwest` to obtain a little bit of additional information about these
+data, and/or use `View(midwest)` to get a look at a spreadsheet-style
+view of the data. We will focus on just four variables in Homework B
+taken from this data set:
 
   - `county` = the name of the county
   - `state` = the name of the state (each county is contained in a
@@ -93,36 +92,35 @@ category.
 # Question 7
 
 Ask one question of Professor Love about this course (ideally one that
-you have not asked us already) that interests you. 
-
-Hint: A question ends with a question mark.
-
-It can be a question about the syllabus, the readings, the project, the
-homework assignments, the course notes, anything big or small, but it
-should not be a fact that you can find already in the [Course
+you have not asked us already) that interests you. It can be a question
+about the syllabus, the readings, the project, the homework assignments,
+the course notes, anything big or small, but it should not be a fact
+that you can find already in the [Course
 Syllabus](https://thomaselove.github.io/2019-431-syllabus/).
+
+**Hint**: A question ends with a question mark.
 
 # Submitting your Response
 
 Build your response as an R Markdown file, and either an HTML, PDF or
 Word document that results from the R Markdown file you built working
-from the `YOURNAME-deliverableB.Rmd` template that we have provided.
-Submit both your revised R Markdown file and the HTML output file to
-<https://canvas.case.edu/> in the Deliverable B section. Again, the
+from the `YOURNAME-HomeworkB.Rmd` template that we have provided. Submit
+both your revised R Markdown file and the HTML output file to
+<https://canvas.case.edu/> in the Homework B section. Again, the
 deadline is 2019-09-06 at 2 PM.
 
 # A Few Tips
 
-You are welcome to discuss Deliverable B with Professor Love, the
-teaching assistants or your colleagues, but your answer must be prepared
-by you alone. Don’t be afraid to ask questions, either in person at
-office hours or before/after class, or email **431-help at case dot
-edu**.
+You are welcome to discuss Homework B with Professor Love, the teaching
+assistants or your colleagues, but your answer must be prepared by you
+alone. Don’t be afraid to ask questions, either in person at office
+hours or before/after class, or email **431-help at case dot edu**.
 
 ## Grading Rubric
 
-Deliverable B will be graded on a 0-100 scale, where you will receive 10
+Homework B will be graded on a 0-100 scale, where you will receive 10
 points per question for making a reasonable effort to build a good
-response, and an additional 5 points on Questions 1-6 if your response
-is (essentially) correct and you’ve written any text using complete
-English sentences.
+response (even if that effort isn’t completely successful), and an
+additional 5 points on Questions 1-6 if your response is complete,
+correct and well-written. Well-written responses use complete English
+sentences and show all required R code to achieve the desired result.
