@@ -2,7 +2,7 @@
 
 ## Today's Slides
 
-- Class 3 slides (in draft form) are now available in [PDF format](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS03/431_class-03-slides_2019.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS03/431_class-03-slides_2019.Rmd) above, but we'll be doing some live coding in RStudio during class, so it's quite possible that we'll wander away from the script in places, during class, in which case, I'll post more after class.
+- Class 3 slides are available in [PDF format](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS03/431_class-03-slides_2019.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS03/431_class-03-slides_2019.Rmd) above. We followed these closely in the live coding in RStudio Cloud.
 - Audio recordings of all Classes are posted to http://bit.ly/431-2019-audio as they become available.
     - Someone asked about this: we provide audio recordings for all classes, but not video.
 - To get help, [visit TA office hours](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours), visit with Dr. Love before or after class, or email `431-help at case dot edu`. Thanks!
