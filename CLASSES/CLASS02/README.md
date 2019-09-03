@@ -7,7 +7,7 @@
 
 ## Today's Announcements
 
-1. **First Homework is Due Tomorrow** Your first "deliverable" is due this Friday (tomorrow) 2019-08-30 at 2 PM. [Get started on it now](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A). 
+1. **First Homework is Due Tomorrow** Your first Homework is due this Friday (tomorrow) 2019-08-30 at 2 PM. [Get started on it now](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/A). 
     - I added a link which should make it possible to complete the work even if you're having trouble using R for some reason.
 2. **Audio recordings** If you are interested in or just capable of taking on the task of audio-recording the class, please let Dr. Love know. Thanks.
 3. At any time, including now, if you have questions about the course, please ask us at **431-help at case dot edu**. 
@@ -22,8 +22,6 @@ Mondays | Tuesdays | Wednesdays | Thursdays | Fridays
 
 - Note that TA office hours begin Tuesday 2019-09-03, and end on Friday 2019-12-06, and are not held during the week of Thanksgiving. 
 - Dr. Love is available to meet with you 15 minutes before class, as well as afterwards, and by appointment. His office is Wood WG-82J. Send him an email to set up an appointment.
-
-5. If **Andrew Levite** or **Wail Yar** are in the room, could you come up and see me after class, please?
 
 ## Links for Today 
 
