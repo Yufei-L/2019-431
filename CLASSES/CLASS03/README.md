@@ -30,6 +30,8 @@ With the R Markdown file, and a detailed explanation of the problem you see, we 
 
 3. When you get a response from one of us on **431-help at case dot edu** you'll notice we REPLY ALL so that all of the TAs (and Dr. Love) can see the result. If you need to respond, please fight your usual urge and **REPLY ALL** as well so that we can all still help. You want to be sure that `431-help at case dot edu` is in the list of recipients of each of your emails, even though replies will come from individuals.
 
+4. The most common problem I see with people using their downloaded version of RStudio is that they need to update their packages, which is something I do at least once a week. Visit the Packages window in RStudio, and click Update.
+
 ## Announcements
 
 1. Teaching Assistant Office Hours began this morning and are held in WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places. The schedule is posted at [the bottom of the Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours).
