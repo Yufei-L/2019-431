@@ -35,7 +35,7 @@ With the R Markdown file, and a detailed explanation of the problem you see, we 
 2. I am in the midst of changing the names of what I used to call "Deliverables" to "Homeworks" because that's more sensible, but it's going to take me a couple of days to make that change.
     - After Thursday, if you find old (now dead) links, please email us at `431-help` for a bit of class participation credit.
     - In a similar vein, Please help us **kill typos**, by emailing 431-help (or Dr. Love directly) whenever and wherever you find them.
-3. The [Answer Sketch for Homework A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) (formerly called Deliverable A) is now available, in both PDF and R Markdown formats. 
+3. The [Answer Sketch for Homework A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) (formerly called Deliverable A) is now available, in both PDF and R Markdown formats. There was a substantial revision to this on Monday evening.
     - You should receive your grades and some feedback on your paragraph from Homework A on Thursday.
     - I have compiled the results of the Homework A survey form regarding statistics attitudes into the Answer Sketch, which also demonstrates some useful early ideas regarding visualizing and summarizing (numerically) a batch of data.
     - Separately, I've got some [comments in reaction to the rest of the Homework A Survey] (**link to come**).
