@@ -5,6 +5,10 @@
 - Audio recordings of all Classes are posted to http://bit.ly/431-2019-audio as they become available.
 - To get help from us, [visit TA office hours](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours), visit with Dr. Love before or after class, or email `431-help at case dot edu`.
 
+## The more you know ...
+
+- Source: [XKCD ISO 8601 cartoon](https://xkcd.com/1179/)
+
 ## Things You Need to be Working On
 
 1. [Homework B](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/B) is due Friday 2019-09-06 at 2 PM.
@@ -38,6 +42,7 @@ We promise you can do this.
 
 ![](https://imgs.xkcd.com/comics/iso_8601.png)
 
-- Source: [XKCD ISO 8601 cartoon](https://xkcd.com/1179/)
+## One last thing
 
+- [Explaining histograms](https://tinlizzie.org/histograms/) is an amazing essay by Aran Lunzer and Amelia McNamara. You owe it to yourself to take a look.
 
