@@ -34,7 +34,7 @@ Also, two of you (as of 11:30 AM) had yet to fill in the form at http://bit.ly/4
 4. Read the [Course Syllabus](https://thomaselove.github.io/2019-431-syllabus/), check out the [Course Notes](https://thomaselove.github.io/2019-431-book/), and familiarize yourself with what's available on the [Course Website](https://github.com/THOMASELOVE/2019-431).
 5. If you are interested in / capable of taking on the task of audio-recording the class, then making those recordings available for the group, please let Dr. Love know. Thanks.
 6. If you have questions about the course, please ask us at **431-help at case dot edu**. TA office hours begin Tuesday 2019-09-03 and those details will appear on the [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md).
-7. Your first "deliverable" (homework assignment) is due this Friday 2019-08-30 at 2 PM. [Get started on it now](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A).
+7. Your first "deliverable" (homework assignment) is due this Friday 2019-08-30 at 2 PM. [Get started on it now](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/A).
 
 ## Key Links 
 
@@ -48,10 +48,10 @@ Also, two of you (as of 11:30 AM) had yet to fill in the form at http://bit.ly/4
 
 ## Deliverables
 
-There are several types of assignments for this course, including regular "minute paper" surveys, more traditional "homework" Deliverables, a Course Project, and at least two Quizzes.
+There are several types of assignments for this course, including regular "minute paper" surveys, more traditional Homework, a Course Project, and at least two Quizzes.
 
 - [Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md) (final word for all deadlines)
-- Main [Deliverables page](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES) with Links for the Homework Assignments
+- [Homework page](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK) with Links for the Homework Assignments
 - The [Course Project](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT) page
 - The [Quizzes](https://github.com/THOMASELOVE/2019-431/tree/master/QUIZZES) page
 
