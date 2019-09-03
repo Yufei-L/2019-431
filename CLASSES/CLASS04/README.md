@@ -24,7 +24,7 @@ Learning R can be difficult at first - it’s like learning a new lanugage, just
 
 > It’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It’s just a natural part of programming. So, it happens to everyone and gets less and less over time. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later.
 
-If you’re finding yourself taking way too long hitting your head against a wall and not understanding, take a break, talk to classmates, visit [TA office hours](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours), ask questions at `431-help at case dot edu`
+If you’re finding yourself taking way too long hitting your head against a wall and not understanding, take a break, talk to classmates, visit [TA office hours](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours), ask questions at `431-help at case dot edu`, etc.
 
 We promise you can do this.
 
@@ -32,5 +32,12 @@ We promise you can do this.
 
 1. The DELIVERABLES section is dead. Everything is now posted instead to [the HOMEWORK section](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK). 
     - While I believe I've repaired many of the old links to "Deliverables", if you find any, please let us know.
-2. 
+    - The form to fill out if you want to complain about grading on the Homework **will be posted**.
+2. Grades and our comments on Homework A have been posted to **link to come**.
+3. Comments from Professor Love in reaction to the Minute Paper after Class 03 **will be posted**.
+
+![](https://imgs.xkcd.com/comics/iso_8601.png)
+
+- Source: [XKCD ISO 8601 cartoon](https://xkcd.com/1179/)
+
 
