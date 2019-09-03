@@ -15,7 +15,7 @@ Markdown document template for this assignment called
 
   - The `YOURNAME-homeworkB.Rmd` file is available in the [main folder
     for Homework
-    B](https://github.com/THOMASELOVE/2019-431/tree/master/HomeworkS/B).
+    B](https://github.com/THOMASELOVE/2019-431/tree/master/Homework/B).
   - The file is also found on the [Data (and code)
     page](https://github.com/THOMASELOVE/2019-431-data) of our web site.
     Just click on the green **Clone or download** button and select
