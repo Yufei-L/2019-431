@@ -37,7 +37,8 @@ With the R Markdown file, and a detailed explanation of the problem you see, we 
     - In a similar vein, Please help us **kill typos**, by emailing 431-help (or Dr. Love directly) whenever and wherever you find them.
 3. The [Answer Sketch for Homework A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) (formerly called Deliverable A) is now available, in both PDF and R Markdown formats. 
     - You should receive your grades and some feedback on your paragraph from Homework A on Thursday.
-    - I have compiled the results of the Homework A survey form at **link to come**.
+    - I have compiled the results of the Homework A survey form regarding statistics attitudes into the Answer Sketch, which also demonstrates some useful early ideas regarding visualizing and summarizing (numerically) a batch of data.
+    - Separately, I've got some [comments in reaction to the rest of the Homework A Survey] (**link to come**).
 4. There is a document that is part of the Software materials (also our Data and Code) called **Getting Started with R**, available [in R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.Rmd) and [in PDF](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.pdf) formats. We'll spend a little time with it today, but it's meant to be something you can work through on your own. 
     - This provides a worked example of using R Markdown to process a document (the R Markdown version) into a knitted file (HTML or PDF, for instance) combining results and code.
     - The examples explore (1) some data from an experiment on the growth rate of chickens in response to several different feed supplements, and then (2) some data on the growth of orange trees.
