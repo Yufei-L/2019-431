@@ -11,7 +11,7 @@
 
 1. Please [join the RStudio Cloud](http://bit.ly/431-2019-join-cloud) as soon as possible. Visit http://bit.ly/431-2019-join-cloud to do so.
     - One of the best parts of RStudio Cloud is the set of primers available there. We heartily recommend **all of them** for those of you who have specific areas where you're looking for help.
-2. There is a *Minute Paper* after today's class, as there will be most weeks. **Link to come.** Please submit the form by 2 PM on Wednesday 2019-09-03, although you would ideally fill it out at the end of class. It should take 2-3 minutes. 
+2. At http://bit.ly/431-2019-minute-03 is a *Minute Paper*, as there will be most weeks. Please [submit the form](http://bit.ly/431-2019-minute-03) by 2 PM on Wednesday 2019-09-03 for class participation credit. It is designed to take no more than 5 minutes, and ideally you would fill this out immediately after class. 
     - Completing the form boosts your Class Participation grade, which starts at 60% and increases through the semester.
     - It will ask you whether you've joined the RStudio Cloud, and if so, it will ask for your RStudio Cloud user name.
 3. [Homework B](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/B) is due on Friday 2019-09-06 at 2 PM.
