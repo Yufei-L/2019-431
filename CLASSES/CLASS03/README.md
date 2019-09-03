@@ -4,6 +4,7 @@
 
 - Class 3 slides (in draft form) are now available in [PDF format](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS03/431_class-03-slides_2019.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS03/431_class-03-slides_2019.Rmd) above, but we'll be doing some live coding in RStudio during class, so it's quite possible that we'll wander away from the script in places, during class, in which case, I'll post more after class.
 - Audio recordings of all Classes are posted to http://bit.ly/431-2019-audio as they become available.
+    - Someone asked about this: we provide audio recordings for all classes, but not video.
 - To get help, [visit TA office hours](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours), visit with Dr. Love before or after class, or email `431-help at case dot edu`. Thanks!
 
 ## Upcoming Deliverables
@@ -38,7 +39,7 @@ With the R Markdown file, and a detailed explanation of the problem you see, we 
 3. The [Answer Sketch for Homework A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) (formerly called Deliverable A) is now available, in both PDF and R Markdown formats. There was a substantial revision to this on Monday evening.
     - You should receive your grades and some feedback on your paragraph from Homework A on Thursday.
     - I have compiled the results of the Homework A survey form regarding statistics attitudes into the Answer Sketch, which also demonstrates some useful early ideas regarding visualizing and summarizing (numerically) a batch of data.
-    - Separately, I've got some [comments in reaction to the rest of the Homework A Survey] (**link to come**).
+    - Separately, I've got some [comments in reaction to the rest of the Homework A Survey](http://bit.ly/431-2019-hwa-survey-comments), and we'll look at those briefly, too.
 4. There is a document that is part of the Software materials (also our Data and Code) called **Getting Started with R**, available [in R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.Rmd) and [in PDF](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.pdf) formats. We'll spend a little time with it today, but it's meant to be something you can work through on your own. 
     - This provides a worked example of using R Markdown to process a document (the R Markdown version) into a knitted file (HTML or PDF, for instance) combining results and code.
     - The examples explore (1) some data from an experiment on the growth rate of chickens in response to several different feed supplements, and then (2) some data on the growth of orange trees.
@@ -48,6 +49,15 @@ With the R Markdown file, and a detailed explanation of the problem you see, we 
 
 1. *Numlock* is a daily morning news brief about numbers in the news that sometimes has some interesting stuff. Visit https://numlock.substack.com/subscribe to check it out and sign up to get the emails, if you're interested. There is also a paid subscription option if you're interested.
 2. You may also be interested in *Significant Digits* from FiveThirtyEight - it's one of the newsletters at https://fivethirtyeight.com/newsletter/ - they also have a weekly newsletter which I subscribe to, along with other more specialized pieces.
+3. Someone asked "Have you ever been called Dr. Strangelove?" I am torn as to the best reply (other than "not yet".)
+    - "You can’t fight in here. This is a war room."
+    - Love is something of a strange name to grow up with, certainly, or at least it was in the US in the 1970s, but it’s a good thing to be named for. 
+    - From http://howmanyofme.com/search/, there are 663 people in the U.S. named Thomas Love.
+    - The most famous Thomas E. Love is the [billionaire owner and founder of Love’s Travel Stops and Country Stores](https://en.wikipedia.org/wiki/Tom_Love). No relation, that I know of.
+4. Someone asked "I just wonder why do people use R very much in stats and not matlab and python." 
+    - R is designed and maintained for data science and statistics, mainly. 
+    - Python, for instance, is a very appealing general purpose programming language. It's not a competition. In class, I want you to demonstrate your facility with R, but in life, use what works.
+
 
 ## One Last Thing
 
