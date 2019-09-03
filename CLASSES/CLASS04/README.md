@@ -7,6 +7,8 @@
 
 ## The more you know ...
 
+![](https://imgs.xkcd.com/comics/iso_8601.png)
+
 - Source: [XKCD ISO 8601 cartoon](https://xkcd.com/1179/)
 
 ## Things You Need to be Working On
@@ -40,7 +42,6 @@ We promise you can do this.
 2. Grades and our comments on Homework A have been posted to **link to come**.
 3. Comments from Professor Love in reaction to the Minute Paper after Class 03 **will be posted**.
 
-![](https://imgs.xkcd.com/comics/iso_8601.png)
 
 ## One last thing
 
