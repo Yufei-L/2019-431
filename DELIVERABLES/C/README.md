@@ -1,32 +1,32 @@
-431 Deliverable C
+431 Homework C
 ================
-Due **2018-09-13** at 2 PM. Last Edited 2019-08-23 23:34:30
+Due **2019-09-13** at 2 PM. Last Edited 2019-09-03
 
 # General Instructions
 
-Deliverable C includes eleven questions. Be sure to respond to each of
-them. You are welcome (encouraged, really) to discuss Deliverable C with
+Homework C includes eleven questions. Be sure to respond to each of
+them. You are welcome (encouraged, really) to discuss Homework C with
 Dr. Love, the teaching assistants or your colleagues, but your answer
 must be prepared by you alone.
 
-## An R Markdown Template for Deliverable C
+## An R Markdown Template for Homework C
 
 We have again provided a useful R Markdown document template for this
-assignment called `YOURNAME-deliverableC.Rmd` that you should use to
+assignment called `YOURNAME-HomeworkC.Rmd` that you should use to
 complete your work.
 
-  - The `YOURNAME-deliverableC.Rmd` file is available in the [main
-    folder for Deliverable
-    C](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/C).
+  - The `YOURNAME-HomeworkC.Rmd` file is available in the [main folder
+    for Homework
+    C](https://github.com/THOMASELOVE/2019-431/tree/master/HomeworkS/C).
   - The file is also found on the [Data (and code)
     page](https://github.com/THOMASELOVE/2019-431-data) of our web site.
     Just click on the green **Clone or download** button and select
     Download ZIP to get the files you’ll need, including the
-    `YOURNAME-deliverableC.Rmd` template, as part of a ZIP file. Unzip
-    the file on your computer into a directory you can find again, and
+    `YOURNAME-HomeworkC.Rmd` template, as part of a ZIP file. Unzip the
+    file on your computer into a directory you can find again, and
     you’ll be ready to go.
 
-## The Data for Deliverable C
+## The Data for Homework C
 
 The setup for this assignment involves the following chunk of R code.
 
@@ -139,8 +139,8 @@ the `hwCextra` tibble.
 
 # On Grading
 
-Deliverable C will be graded on a 0-100 scale. You will receive some
-credit for making a reasonable effort to build a good response to each
+Homework C will be graded on a 0-100 scale. You will receive some credit
+for making a reasonable effort to build a good response to each
 question, and then additional credit if your response is (essentially)
 correct, your code is clean and you’ve written any text using complete
 English sentences. A more detailed breakdown of the grading rubric will
