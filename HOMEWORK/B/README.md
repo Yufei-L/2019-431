@@ -13,9 +13,8 @@ file, using R Markdown. We have provided you with a very useful R
 Markdown document template for this assignment called
 `YOURNAME-HomeworkB.Rmd` that you should use to complete your work.
 
-  - The `YOURNAME-homeworkB.Rmd` file is available above, in the [main
-    folder for Homework
-    B](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/B).
+  - The `YOURNAME-homeworkB.Rmd` file [is available
+    above](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/B/YOURNAME-homeworkB.Rmd).
   - The file is also found on the [Data (and code)
     page](https://github.com/THOMASELOVE/2019-431-data) of our web site.
     Just click on the green **Clone or download** button and select
