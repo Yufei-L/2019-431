@@ -33,10 +33,10 @@ With the R Markdown file, and a detailed explanation of the problem you see, we 
 ## Announcements
 
 1. Teaching Assistant Office Hours began this morning and are held in WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places. The schedule is posted at [the bottom of the Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours).
-2. I am in the midst of changing the names of what I used to call "Deliverables" to "Homeworks" because that's more sensible, but it's going to take me a couple of days to make that change.
-    - After Thursday, if you find old (now dead) links, please email us at `431-help` for a bit of class participation credit.
+2. I am going to change the name "Deliverables" to "Homeworks" because that's more sensible, but it's an ongoing process.
+    - Starting Friday, if you find old (or dead) links, please email us at `431-help` for a bit of class participation credit.
     - In a similar vein, Please help us **kill typos**, by emailing 431-help (or Dr. Love directly) whenever and wherever you find them.
-3. The [Answer Sketch for Homework A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) (formerly called Deliverable A) is now available, in both PDF and R Markdown formats. There was a substantial revision to this on Monday evening.
+3. The [Answer Sketch for Homework A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) (formerly called Deliverable A) is now available, in both PDF and R Markdown formats. There was a substantial revision posted Monday evening.
     - You should receive your grades and some feedback on your paragraph from Homework A on Thursday.
     - In Homework A, you answered some questions on a Google Form, too. 
         - Some of the questions were taken from the Attitudes Toward Statistics scale, and those results are now part of [the Answer Sketch](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A). I also demonstrate some useful early ideas regarding visualizing and summarizing (numerically) a batch of data there.
