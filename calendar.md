@@ -14,20 +14,20 @@ Links | Date | Description
 [README 01](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS01) | 2019-08-27 | Class begins. Demonstrations, Logistics, Guessing Ages.
 [README 02](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS02) | 2019-08-29 | **Part A: Data Visualization** begins.
 [Homework A](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/A) | 2019-08-30 | [Two activities need to be completed](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/A), each due at 2 PM.
-README 03 | 2019-09-03 | Data Visualization in RStudio Cloud, mostly Histograms
-README 04 | 2019-09-05 | Data Visualization/Summaries in R, with the Day 1 Survey Data
+[README 03](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS03) | 2019-09-03 | Data Visualization in RStudio Cloud, mostly Histograms
+[README 04](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS04) | 2019-09-05 | Data Visualization/Summaries in R, with the Day 1 Survey Data
 [Homework B](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/B) | 2019-09-06 | [Seven questions, mostly about the `midwest` data](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/B), due at 2 PM.
 -- | 2019-09-10 | By now, you should have finished reading **Leek** Chapters 5, 9, 10 and 13, at least.
-README 05 | 2019-09-10 | 
-README 06 | 2019-09-12 | 
+[README 05](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS05) | 2019-09-10 | 
+[README 06](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS06) | 2019-09-12 | 
 [Homework C](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/C) | 2019-09-13 | [Eleven questions, mostly about the `faithful` data](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/C) due at 2 PM.
 -- | 2019-09-17 | By now, you should have finished reading **Silver** Introduction and Chapter 1
-README 07 | 2019-09-17 | 
-README 08 | 2019-09-19 | 
+[README 07](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS07) | 2019-09-17 | 
+[README 08](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS08) | 2019-09-19 | 
 [Homework D](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/D) | 2019-09-20 | [Seven questions, mostly about the `LBWunicef` data](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/D) due at 2 PM.
 -- | 2019-09-24 | By now, you should have finished reading **Silver** Chapters 2-3.
-README 09 | 2019-09-24 | 
-README 10 | 2019-09-26 | **Part B: Designing Comparisons** begins about here.
+[README 09](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS09) | 2019-09-24 | 
+[README 10](https://github.com/THOMASELOVE/2019-431/tree/master/CLASSES/CLASS10) | 2019-09-26 | **Part B: Designing Comparisons** begins about here.
 [Homework E](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/E) | 2019-09-27 | [Seven questions, mostly about Fisher's `iris` data](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/E) due at 2 PM.
 [Scheduling](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/SCHEDULE) | 2019-09-30 | Complete the [Scheduling Form for Final Project Presentations](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/SCHEDULE) by 9 AM.
 -- | 2019-10-01 | By now, you should have finished reading **Leek**'s *Elements of Data Analytic Style*.
