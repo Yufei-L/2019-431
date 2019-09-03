@@ -32,9 +32,6 @@ With the R Markdown file, and a detailed explanation of the problem you see, we 
 
 4. The most common problem I see with people using their downloaded version of RStudio is that they need to update their packages, which is something I do at least once a week. Visit the Packages window in RStudio, and click Update.
 
-![](https://github.com/THOMASELOVE/links_teaching/blob/master/images/2017-06-30_bryan.png)
-- Source: Jenny Bryan [@JennyBryan 2017-06-30](https://twitter.com/jennybryan/status/880922371225288709)
-
 ## Announcements
 
 1. Teaching Assistant Office Hours began this morning and are held in WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places. The schedule is posted at [the bottom of the Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours).
@@ -67,6 +64,8 @@ With the R Markdown file, and a detailed explanation of the problem you see, we 
     - R is designed and maintained for data science and statistics, mainly. 
     - Python, for instance, is a very appealing general purpose programming language. It's not a competition. In class, I want you to demonstrate your facility with R, but in life, use what works.
 
+![](https://github.com/THOMASELOVE/links_teaching/blob/master/images/2017-06-30_bryan.png)
+- Source: Jenny Bryan [@JennyBryan 2017-06-30](https://twitter.com/jennybryan/status/880922371225288709)
 
 ## One Last Thing
 
