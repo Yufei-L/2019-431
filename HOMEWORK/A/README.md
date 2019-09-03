@@ -1,6 +1,6 @@
 431 Homework A
 ================
-Due **2018-08-30** at 2 PM. Last Edited 2019-09-03 16:28:00
+Due **2018-08-30** at 2 PM. Last Edited 2019-09-03 16:32:14
 
 Homework A requires you to complete two activities. Completing each
 activity is worth 15 points, for a total of 30.
