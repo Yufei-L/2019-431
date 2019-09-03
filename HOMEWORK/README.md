@@ -5,8 +5,8 @@
 Homework | Deadline | Your Assignment | Post-Deadline Materials
 :----------: | :----------: | :----------------: | :---------------:
 A | 2019-08-30 at 2 PM | [Homework A](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/A) | [A: Post-Deadline](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/A/post-deadline.md) 
-B | 2019-09-06 at 2 PM | [Homework B](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/B) | [B: Post-Deadline Materials]  
-C | 2019-09-13 at 2 PM | [Homework C](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/C) | [C: Post-Deadline Materials] 
+B | 2019-09-06 at 2 PM | [Homework B](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/B) | [B: Post-Deadline](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/B/post-deadline.md)   
+C | 2019-09-13 at 2 PM | [Homework C](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/C) | [C: Post-Deadline](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/C/post-deadline.md)  
 D | 2019-09-20 at 2 PM | [Homework D](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/D) | [D: Post-Deadline Materials] 
 E | 2019-09-27 at 2 PM | [Homework E](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/E) | [E: Post-Deadline Materials] 
 F | 2019-10-04 at 2 PM | [Homework F](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/F) **and** [Project Proposal Instructions](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT/PROPOSAL) | [F: Post-Deadline Materials] 
@@ -26,10 +26,10 @@ All deadlines are listed on the [Course Calendar](https://github.com/THOMASELOVE
 3. Almost every Homework will require you to analyze some data, and prepare a report using R Markdown. You will submit both your Markdown file, and an HTML document built using R Studio from that Markdown file. 
 4. Several Homeworks require you to write an essay. After Homework A, essays must be composed as part of your Markdown file, and thus included in your HTML document. Do not edit the result of your R Markdown conversion into Word.
 5. When writing in English, use complete sentences, rather than bullet points.
-6. Clearly mark each Question in each Deliverable. There is no need to repeat the question before answering it, although you are welcome to do so.
+6. Clearly mark each Question in each Homework. There is no need to repeat the question before answering it, although you are welcome to do so.
 7. Read and heed the advice of Jeff Leek in *The Elements of Data Analytic Style*. Chapters 5, 9, 10 and 13 of that book are especially relevant to our early assignments.
-8. You are welcome to discuss each Deliverable with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and email **431-help at case dot edu**.
+8. You are welcome to discuss each Homework with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and email **431-help at case dot edu**.
 9. In general, we do not guarantee to provide answers to questions that we receive in the last 18 hours before a Homework is due, especially once we've gotten into mid-September. So don't leave anything until the last day. Again, allow time for computer problems.
-10. If a Deliverable is scheduled so that you know in advance that will not be able to complete it in a timely fashion, it is your responsibility to email Professor Love about the situation so he can excuse you from the Homework. Such requests should be sent as soon as possible (at least 48 hours prior to the deadline except in truly remarkable circumstances.) Remember that Professor Love will automatically drop your lowest Deliverable grade at the end of the semester.
-11. Grades on Homework are usually available one week after the submission deadline. 
+10. If a Homework is scheduled so that you know in advance that will not be able to complete it in a timely fashion, it is your responsibility to email Professor Love about the situation so he can excuse you from the Homework. Such requests should be sent as soon as possible (at least 48 hours prior to the deadline except in truly remarkable circumstances.) Remember that Professor Love will automatically drop your lowest Deliverable grade at the end of the semester.
+11. Grades on Homework are usually available on the Thursday after the Friday submission deadline. 
 
