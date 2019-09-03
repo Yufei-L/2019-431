@@ -7,8 +7,8 @@ Homework | Deadline | Your Assignment | Post-Deadline Materials
 A | 2019-08-30 at 2 PM | [Homework A](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/A) | [A: Post-Deadline](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/A/post-deadline.md) 
 B | 2019-09-06 at 2 PM | [Homework B](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/B) | [B: Post-Deadline](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/B/post-deadline.md)   
 C | 2019-09-13 at 2 PM | [Homework C](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/C) | [C: Post-Deadline](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/C/post-deadline.md)  
-D | 2019-09-20 at 2 PM | [Homework D](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/D) | [D: Post-Deadline Materials] 
-E | 2019-09-27 at 2 PM | [Homework E](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/E) | [E: Post-Deadline Materials] 
+D | 2019-09-20 at 2 PM | [Homework D](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/D) | [D: Post-Deadline](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/D/post-deadline.md)  
+E | 2019-09-27 at 2 PM | [Homework E](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/E) | [E: Post-Deadline](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/E/post-deadline.md)  
 
 - Deliverables F and beyond **will be posted soon**.
 
