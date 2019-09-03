@@ -13,7 +13,7 @@ R.
 
     `geom_smooth()` using method = 'loess' and formula 'y ~ x'
 
-![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/A/README/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
 Use the Help window in R to learn about the `DNase` data set, and in
 particular, about the two variables displayed in the plot and their
