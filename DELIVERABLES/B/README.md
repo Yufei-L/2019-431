@@ -93,7 +93,9 @@ category.
 # Question 7
 
 Ask one question of Professor Love about this course (ideally one that
-you have not asked us already) that interests you.
+you have not asked us already) that interests you. 
+
+Hint: A question ends with a question mark.
 
 It can be a question about the syllabus, the readings, the project, the
 homework assignments, the course notes, anything big or small, but it
