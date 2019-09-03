@@ -32,3 +32,13 @@ All deadlines are listed on the [Course Calendar](https://github.com/THOMASELOVE
 10. If a Homework is scheduled so that you know in advance that will not be able to complete it in a timely fashion, it is your responsibility to email Professor Love about the situation so he can excuse you from the Homework. Such requests should be sent as soon as possible (at least 48 hours prior to the deadline except in truly remarkable circumstances.) Remember that Professor Love will automatically drop your lowest Deliverable grade at the end of the semester.
 11. Grades on Homework are usually available on the Thursday after the Friday submission deadline. 
 
+## Grading
+
+All homeworks (except Homework A) are worth 100 points. At the end of the term, suppose we wound up with a total of 10 homeworks (including Homework A). Under those circumstances, we would calculate your Homework grade by:
+
+- dropping your lowest score out of the 9 homeworks after A, then summing the remaining 8 scores,
+- to which we then add your score (maximum: 30 points) on Homework A,
+- and divide the result by 8 (note: not by 8.30) to obtain an overall homework score.
+
+Your homework score for grading purposes is actually the *minimum* of 100 and the result of this "overall homework score" calculation.
+
