@@ -1,14 +1,8 @@
-431 Deliverable A
+431 Homework A
 ================
-Due **2018-08-30** at 2 PM. Last Edited 2019-08-16 23:27:23
+Due **2018-08-30** at 2 PM. Last Edited 2019-09-03 16:32:14
 
-## After Deadline Materials
-
-1. The Answer Sketch is now available [in pdf](https://github.com/THOMASELOVE/2019-431/blob/master/DELIVERABLES/A/sketch_A.pdf) and [R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/DELIVERABLES/A/sketch_A.pdf).
-2. Responses from Dr. Love on the HW A Survey Questions about 431 are at http://bit.ly/431-2019-hwa-survey-comments.
-3. Grades on Homework A will be posted on 2019-09-05.
-
-Deliverable A requires you to complete two activities. Completing each
+Homework A requires you to complete two activities. Completing each
 activity is worth 15 points, for a total of 30.
 
 # Activity 1. Interpreting a Visualization Built in R
@@ -26,12 +20,12 @@ particular, about the two variables displayed in the plot and their
 scientific context. Then write a paragraph (no more than 100 words)
 which explains what the plot indicates about the relationship between
 the two variables, and (more generally) what you have learned about the
-data (or science) from the plot.
-
-**Note** If you cannot use R to learn about the data for some reason, try https://www.rdocumentation.org/packages/datasets/versions/3.6.1/topics/DNase.
+data (or science) from the plot. If you cannot use R to learn about the
+data for some reason, try
+<https://www.rdocumentation.org/packages/datasets/versions/3.6.1/topics/DNase>.
 
 Submit your paragraph (as either a Word or PDF file) to Canvas at
-<https://canvas.case.edu/> in Deliverable A.
+<https://canvas.case.edu/> in Homework A.
 
 # Activity 2. Survey via Google Form
 
