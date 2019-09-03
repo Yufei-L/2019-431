@@ -14,7 +14,7 @@
 2. At http://bit.ly/431-2019-minute-03 is a *Minute Paper*, as there will be most weeks. Please [submit the form](http://bit.ly/431-2019-minute-03) by 2 PM on Wednesday **2019-09-04** for class participation credit. It is designed to take no more than 5 minutes, and ideally you would fill this out immediately after class. 
     - Completing the form boosts your Class Participation grade, which starts at 60% and increases through the semester.
     - It will ask you whether you've joined the RStudio Cloud, and if so, it will ask for your RStudio Cloud user name.
-3. [Homework B](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/B) is due on Friday 2019-09-06 at 2 PM.
+3. [Homework B](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/B) is due on Friday 2019-09-06 at 2 PM.
 
 ## Get help at any time by emailing **431-help at case dot edu**.
 
@@ -35,13 +35,13 @@ With the R Markdown file, and a detailed explanation of the problem you see, we 
 ## Announcements
 
 1. Teaching Assistant Office Hours began this morning and are held in WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places. The schedule is posted at [the bottom of the Course Calendar](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours).
-2. I am going to change the name "Deliverables" to "Homeworks" because that's more sensible, but it's an ongoing process.
-    - Starting Friday, if you find old (or dead) links, please email us at `431-help` for a bit of class participation credit.
+2. I have changed the name "Deliverables" to "Homeworks" because that's more sensible, but it's an ongoing process.
+    - If you find old (or dead) links, please email us at `431-help` for a bit of class participation credit.
     - In a similar vein, Please help us **kill typos**, by emailing 431-help (or Dr. Love directly) whenever and wherever you find them.
-3. The [Answer Sketch for Homework A](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A) (formerly called Deliverable A) is now available, in both PDF and R Markdown formats. There was a substantial revision posted Monday evening.
+3. The [Answer Sketch for Homework A](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/A/post-deadline.md) (formerly called Deliverable A) is now available, in both PDF and R Markdown formats. There was a substantial revision posted Monday evening.
     - You should receive your grades and some feedback on your paragraph from Homework A on Thursday.
     - In Homework A, you answered some questions on a Google Form, too. 
-        - Some of the questions were taken from the Attitudes Toward Statistics scale, and those results are now part of [the Answer Sketch](https://github.com/THOMASELOVE/2019-431/tree/master/DELIVERABLES/A). I also demonstrate some useful early ideas regarding visualizing and summarizing (numerically) a batch of data there.
+        - Some of the questions were taken from the Attitudes Toward Statistics scale, and those results are now part of [the Answer Sketch](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/A/post-deadline.md). I also demonstrate some useful early ideas regarding visualizing and summarizing (numerically) a batch of data there.
         - Separately, I've responded to your [comments on the rest of the Homework A Form](http://bit.ly/431-2019-hwa-survey-comments).
 4. In our Software materials (also Data and Code) is **Getting Started with R**, available [in R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.Rmd) and [in PDF](https://github.com/THOMASELOVE/2019-431/blob/master/SOFTWARE/431-getting-started-with-R.pdf) formats. We'll spend a little time with it today, but it's meant to be something you can work through on your own. 
     - This provides a worked example of using R Markdown to process a document (the R Markdown version) into a knitted file (HTML or PDF, for instance) combining results and code.
