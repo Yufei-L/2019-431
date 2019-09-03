@@ -20,7 +20,7 @@
 1. Apply the 15-minute rule. If you can't solve a problem in 15 minutes, **ask for help** either from us or from Google.
     - You are **absolutely supposed** to use Google and the TAs (and Dr. Love) to improve your code.
 2. When asking for help with an R problem from **431-help at case dot edu**, we ask you to try to make it easier for us to help you. Specifically...
-    - attach a copy of the R Markdown file you are working on, (or better still, point us to it on RStudio Cloud)
+    - attach a copy of the R Markdown file you are working on, (or better still, point us to it on RStudio Cloud.)
     - include a screenshot or copy-and-paste listing of the error you are generating, if that's the problem.
     - attach a copy of the data set (if it's not about a homework assignment or other data set that we gave you),
     - attach a copy of the HTML result (if you can create it).
