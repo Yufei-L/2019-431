@@ -5,7 +5,7 @@
 - Audio recordings of all Classes are posted to http://bit.ly/431-2019-audio as they become available.
 - To get help from us, [visit TA office hours](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours), visit with Dr. Love before or after class, or email `431-help at case dot edu`.
 
-## The more you know ...
+## Today is 2019-09-05. Why does Dr. Love write it that way?
 
 ![](https://imgs.xkcd.com/comics/iso_8601.png)
 
