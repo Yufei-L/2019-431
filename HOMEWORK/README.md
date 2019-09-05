@@ -10,7 +10,7 @@ C | 2019-09-13 at 2 PM | [Homework C](https://github.com/THOMASELOVE/2019-431/tr
 D | 2019-09-20 at 2 PM | [Homework D](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/D) | [D: Post-Deadline](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/D/post-deadline.md)  
 E | 2019-09-27 at 2 PM | [Homework E](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/E) | [E: Post-Deadline](https://github.com/THOMASELOVE/2019-431/blob/master/HOMEWORK/E/post-deadline.md)  
 
-- Deliverables F and beyond **will be posted soon**.
+- Homeworks F and beyond **will be posted soon**.
 
 ## Grading Errors and Regrade Requests on Homework
 
