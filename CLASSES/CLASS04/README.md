@@ -39,7 +39,7 @@ We promise you can do this.
 1. The DELIVERABLES section is dead. Everything is now posted instead to [the HOMEWORK section](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK). 
     - While I believe I've repaired many of the old links to "Deliverables", if you find any, please let us know.
     - The form to fill out if you want to complain about grading on the Homework **will be posted**.
-2. Grades and our comments on Homework A have been posted to **link to come**.
+2. Grades and our comments on Homework A have been posted to the grading roster at http://bit.ly/431-2019-grades. You'll need the HW ID code I emailed to you today. The regrade request form is also available now at http://bit.ly/431-2019-regrade-requests. All regrade requests need to be submitted by 2019-12-12 at noon. See the [last section of the Syllabus](https://thomaselove.github.io/2019-431-syllabus/general-course-policies.html#grade-appeal-policy---request-a-review-in-december) for more on this policy.
 3. Comments from Professor Love in reaction to the Minute Paper after Class 03 **will be posted**.
 
 
