@@ -66,7 +66,7 @@ Homework K | 2019-12-09 | due at 2 PM.
 *Projects 1* | 2019-12-09 | First Day of [Project Presentations](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT)
 *Projects 2* | 2019-12-10 | Second Day of [Project Presentations](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT)
 *Projects 3* | 2019-12-12 | Final Day of [Project Presentations](https://github.com/THOMASELOVE/2019-431/tree/master/PROJECT)
--- | 2019-12-12 | Noon: Deadline to submit Regrade Request Form at http://bit.ly/431-2019-regrade-requests
+-- | 2019-12-12 | Noon: Deadline to submit [Regrade Request Form](http://bit.ly/431-2019-regrade-requests)
 Homework L | 2019-12-13 | due at 2 PM.
 
 ## Final Projects - Your Presentation
