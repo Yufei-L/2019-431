@@ -30,7 +30,7 @@ All deadlines are listed on the [Course Calendar](https://github.com/THOMASELOVE
 8. You are welcome to discuss each Homework with anyone, including Professor Love, the teaching assistants, or your colleagues, but your answer must be prepared by you alone. We especially encourage you to take advantage of TA office hours and email **431-help at case dot edu**.
 9. In general, we do not guarantee to provide answers to questions that we receive in the last 18 hours before a Homework is due, especially once we've gotten into mid-September. So don't leave anything until the last day. Again, allow time for computer problems.
 10. If a Homework is scheduled so that you know in advance that will not be able to complete it in a timely fashion, it is your responsibility to email Professor Love about the situation so he can excuse you from the Homework. Such requests should be sent as soon as possible (at least 48 hours prior to the deadline except in truly remarkable circumstances.) Remember that Professor Love will automatically drop your lowest Deliverable grade at the end of the semester.
-11. Grades on Homework are usually available on the Thursday after the Friday submission deadline. 
+11. Grades on Homework are usually available on the Thursday after the Friday submission deadline. The grading roster is at http://bit.ly/431-2019-grades, and you'll need the HW ID code I provided to you in an email on 2019-09-05.
 
 ## Grading
 
