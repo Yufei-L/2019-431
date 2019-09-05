@@ -11,6 +11,11 @@
 
 - Source: [XKCD ISO 8601 cartoon](https://xkcd.com/1179/)
 
+From [Michael Donohoe on Twitter]:
+
+![](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS04/images/donohoe_dates_map.PNG)
+
+
 ## Things You Need to be Working On
 
 1. [Homework B](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/B) is due Friday 2019-09-06 at 2 PM.
@@ -33,6 +38,8 @@ Learning R can be difficult at first - it’s like learning a new lanugage, just
 If you’re finding yourself taking way too long hitting your head against a wall and not understanding, take a break, talk to classmates, visit [TA office hours](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours), ask questions at `431-help at case dot edu`, etc.
 
 We promise you can do this.
+
+
 
 ## Announcements
 
