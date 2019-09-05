@@ -1,6 +1,6 @@
 ## Today's Slides
 
-- Class 4 slides are available in [PDF format](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS04/431_class-04-slides_2019.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS04/431_class-04-slides_2019.Rmd) above. 
+- Class 4 slides (the title page is wrong, but the slides are fine) are available in [PDF format](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS04/431_class-04-slides_2019.pdf), as well as in [R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS04/431_class-04-slides_2019.Rmd) above. 
     - Again, we'll be doing some "live" coding in RStudio Cloud using the **Day1-survey-analysis** project.
     - The Day 1 Survey Analysis contained in the Slides, and in the RStudio Cloud presentation is also available [in R Markdown](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS04/431_class-04_day1_survey_analyses.Rmd) as well as [in PDF format](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS04/431_class-04_day1_survey_analyses.pdf) above, and is *also* available [as an HTML file on RPubs](http://rpubs.com/TELOVE/day1-survey-431-2019).
 - Audio recordings of all Classes are posted to http://bit.ly/431-2019-audio as they become available.
