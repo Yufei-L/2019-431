@@ -1,7 +1,7 @@
 ---
-title: "431 Class 03"
+title: "431 Class 04"
 author: "Thomas E. Love"
-date: "2019-09-03"
+date: "2019-09-05"
 output:
   beamer_presentation: 
     colortheme: whale
