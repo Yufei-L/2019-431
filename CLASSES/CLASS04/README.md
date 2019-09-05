@@ -20,7 +20,7 @@ From [Michael Donohoe on Twitter]:
 ## Things You Need to be Working On
 
 1. [Homework B](https://github.com/THOMASELOVE/2019-431/tree/master/HOMEWORK/B) is due Friday 2019-09-06 at 2 PM.
-2. Please [join the RStudio Cloud](http://bit.ly/431-2019-join-cloud) as soon as possible at http://bit.ly/431-2019-join-cloud.
+2. The last three folks need to [join the RStudio Cloud](http://bit.ly/431-2019-join-cloud) at http://bit.ly/431-2019-join-cloud.
     - While all of their primers are useful, we especially recommend the four highlighted below for people new to R or needing a brush-up on the tidyverse.
 
 ![](https://github.com/THOMASELOVE/2019-431/blob/master/CLASSES/CLASS04/images/rstudiocloud_primers.png)
@@ -39,8 +39,6 @@ Learning R can be difficult at first - it’s like learning a new lanugage, just
 If you’re finding yourself taking way too long hitting your head against a wall and not understanding, take a break, talk to classmates, visit [TA office hours](https://github.com/THOMASELOVE/2019-431/blob/master/calendar.md#ta-office-hours), ask questions at `431-help at case dot edu`, etc.
 
 We promise you can do this.
-
-
 
 ## Announcements
 
