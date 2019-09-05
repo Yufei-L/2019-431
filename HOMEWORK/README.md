@@ -14,7 +14,7 @@ E | 2019-09-27 at 2 PM | [Homework E](https://github.com/THOMASELOVE/2019-431/tr
 
 ## Grading Errors and Regrade Requests on Homework
 
-If you have a complaint about your grade on a Homework, please first review [the Grade Appeal Policy](https://thomaselove.github.io/2019-431-syllabus/general-course-policies.html#grade-appeal-policy---request-a-review-in-december) at the end of the Course Syllabus. Then visit the form at **LINK TO COME**.
+If you have a complaint about your grade on a Homework, please first review [the Grade Appeal Policy](https://thomaselove.github.io/2019-431-syllabus/general-course-policies.html#grade-appeal-policy---request-a-review-in-december) at the end of the Course Syllabus. Then visit the form at http://bit.ly/431-2019-regrade-requests. All such requests must be posted to the form by 2019-12-12 at noon.
 
 ## Some General Advice
 
